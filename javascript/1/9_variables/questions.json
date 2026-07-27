@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "Which keyword is used to declare a variable in modern JavaScript?",
+    "options": [
+      "let",
+      "int",
+      "string",
+      "define"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which keyword declares a constant variable?",
+    "options": [
+      "let",
+      "var",
+      "const",
+      "static"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which keyword was commonly used to declare variables before ES6?",
+    "options": [
+      "const",
+      "let",
+      "var",
+      "new"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which keyword allows a variable's value to be changed?",
+    "options": [
+      "const",
+      "let",
+      "fixed",
+      "final"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which of the following is a valid JavaScript variable name?",
+    "options": [
+      "userName",
+      "123name",
+      "user-name",
+      "var"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which symbol is used to assign a value to a variable?",
+    "options": [
+      "=",
+      "==",
+      "===",
+      ":"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "What is the value of a declared but uninitialized variable?",
+    "options": [
+      "null",
+      "0",
+      "undefined",
+      "false"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which keyword cannot be reassigned after declaration?",
+    "options": [
+      "var",
+      "let",
+      "const",
+      "value"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which variable name follows JavaScript naming rules?",
+    "options": [
+      "myValue",
+      "my value",
+      "1value",
+      "my-value"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which statement correctly declares a variable named age with value 18?",
+    "options": [
+      "let age = 18;",
+      "age let = 18;",
+      "18 = age;",
+      "let = age 18;"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which keyword has function scope instead of block scope?",
+    "options": [
+      "let",
+      "const",
+      "var",
+      "class"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which keyword has block scope?",
+    "options": [
+      "var",
+      "let",
+      "global",
+      "window"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Can a JavaScript variable store different data types at different times?",
+    "options": [
+      "Yes",
+      "No",
+      "Only numbers",
+      "Only strings"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which of the following is a good variable naming practice?",
+    "options": [
+      "Use meaningful names",
+      "Use spaces",
+      "Start with a number",
+      "Use special symbols"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Which statement correctly declares multiple variables?",
+    "options": [
+      "let a = 1, b = 2;",
+      "let 1a, 2b;",
+      "let a b;",
+      "let = a, b;"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which of the following can be stored in a JavaScript variable?",
+    "options": [
+      "Numbers",
+      "Strings",
+      "Booleans",
+      "All of these"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which variable name is written in camelCase?",
+    "options": [
+      "userName",
+      "User_Name",
+      "user_name",
+      "USERNAME"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "What happens if you assign a new value to a let variable?",
+    "options": [
+      "The value changes",
+      "An error occurs",
+      "The variable is deleted",
+      "It becomes constant"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which statement correctly updates the value of an existing variable score?",
+    "options": [
+      "score = 100;",
+      "let = score 100;",
+      "100 = score;",
+      "score == 100;"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which keyword is recommended for variables that should never change?",
+    "options": [
+      "var",
+      "let",
+      "const",
+      "new"
+    ]
+  }
+]
