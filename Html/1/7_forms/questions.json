@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "Which HTML tag is used to create a form?",
+    "options": [
+      "<form>",
+      "<input>",
+      "<table>",
+      "<div>"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which element is used to create a text input field?",
+    "options": [
+      "<textarea>",
+      "<input>",
+      "<button>",
+      "<select>"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which attribute specifies where form data is sent?",
+    "options": [
+      "action",
+      "target",
+      "method",
+      "name"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which attribute defines how form data is submitted?",
+    "options": [
+      "action",
+      "placeholder",
+      "method",
+      "value"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which method sends form data in the URL?",
+    "options": [
+      "POST",
+      "GET",
+      "PUT",
+      "DELETE"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which input type hides the entered characters?",
+    "options": [
+      "text",
+      "password",
+      "email",
+      "number"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which input type is used for email addresses?",
+    "options": [
+      "text",
+      "mail",
+      "email",
+      "address"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which input type is used to select one option from a group?",
+    "options": [
+      "checkbox",
+      "radio",
+      "button",
+      "submit"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which input type allows selecting multiple options?",
+    "options": [
+      "radio",
+      "checkbox",
+      "text",
+      "password"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which tag creates a drop-down list?",
+    "options": [
+      "<option>",
+      "<select>",
+      "<list>",
+      "<dropdown>"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which tag defines an option inside a drop-down list?",
+    "options": [
+      "<choice>",
+      "<item>",
+      "<option>",
+      "<value>"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which tag is used for multi-line text input?",
+    "options": [
+      "<textbox>",
+      "<textarea>",
+      "<input>",
+      "<label>"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which tag is used to create a clickable button?",
+    "options": [
+      "<button>",
+      "<click>",
+      "<inputbutton>",
+      "<submit>"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which attribute makes a field mandatory?",
+    "options": [
+      "required",
+      "checked",
+      "readonly",
+      "disabled"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Which attribute displays hint text inside an input field?",
+    "options": [
+      "value",
+      "placeholder",
+      "title",
+      "hint"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which attribute gives a form control a unique name for submission?",
+    "options": [
+      "id",
+      "class",
+      "name",
+      "style"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which attribute assigns a unique identifier to an element?",
+    "options": [
+      "class",
+      "id",
+      "name",
+      "type"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which input type is used to upload a file?",
+    "options": [
+      "upload",
+      "image",
+      "file",
+      "document"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which input type submits a form?",
+    "options": [
+      "button",
+      "submit",
+      "reset",
+      "text"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which input type clears all form fields to their default values?",
+    "options": [
+      "submit",
+      "clear",
+      "reset",
+      "delete"
+    ]
+  }
+]
