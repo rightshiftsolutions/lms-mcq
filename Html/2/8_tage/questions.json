@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "Which HTML tag is used to create the largest heading?",
+    "options": [
+      "<h1>",
+      "<h6>",
+      "<head>",
+      "<title>"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which HTML tag is used to create a paragraph?",
+    "options": [
+      "<p>",
+      "<div>",
+      "<span>",
+      "<br>"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which HTML tag is used to insert a line break?",
+    "options": [
+      "<hr>",
+      "<br>",
+      "<p>",
+      "<break>"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which HTML tag is used to display an image?",
+    "options": [
+      "<picture>",
+      "<image>",
+      "<img>",
+      "<src>"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which HTML tag is used to create a hyperlink?",
+    "options": [
+      "<link>",
+      "<a>",
+      "<href>",
+      "<url>"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which HTML tag is used to create an unordered list?",
+    "options": [
+      "<ol>",
+      "<ul>",
+      "<li>",
+      "<list>"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which HTML tag is used to create a table row?",
+    "options": [
+      "<td>",
+      "<th>",
+      "<tr>",
+      "<table>"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which HTML tag is used to create a table cell?",
+    "options": [
+      "<tr>",
+      "<table>",
+      "<td>",
+      "<th>"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which HTML tag is used to create a table heading cell?",
+    "options": [
+      "<td>",
+      "<th>",
+      "<thead>",
+      "<caption>"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which HTML tag is used to create an ordered list?",
+    "options": [
+      "<ul>",
+      "<li>",
+      "<ol>",
+      "<dl>"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which HTML tag is used to define a division or section?",
+    "options": [
+      "<span>",
+      "<div>",
+      "<section>",
+      "<article>"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which HTML tag is commonly used for inline text grouping?",
+    "options": [
+      "<div>",
+      "<section>",
+      "<span>",
+      "<aside>"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which HTML tag is used to define the main content of a webpage?",
+    "options": [
+      "<main>",
+      "<body>",
+      "<article>",
+      "<section>"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which HTML tag contains metadata such as the page title and links to stylesheets?",
+    "options": [
+      "<body>",
+      "<head>",
+      "<meta>",
+      "<header>"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Which HTML tag is used to group introductory content or navigation aids?",
+    "options": [
+      "<footer>",
+      "<header>",
+      "<aside>",
+      "<main>"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which HTML tag is specifically used to define navigation links?",
+    "options": [
+      "<menu>",
+      "<nav>",
+      "<section>",
+      "<aside>"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which HTML tag represents content related to, but separate from, the main content?",
+    "options": [
+      "<aside>",
+      "<main>",
+      "<article>",
+      "<header>"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which HTML tag is used to define a self-contained, independent piece of content?",
+    "options": [
+      "<section>",
+      "<article>",
+      "<div>",
+      "<main>"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which HTML tag is used to provide additional information about a figure?",
+    "options": [
+      "<caption>",
+      "<figcaption>",
+      "<legend>",
+      "<summary>"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which HTML tag is used to specify machine-readable date and time values?",
+    "options": [
+      "<date>",
+      "<calendar>",
+      "<time>",
+      "<datetime>"
+    ]
+  }
+]
