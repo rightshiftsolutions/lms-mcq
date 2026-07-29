@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "Which company officially supports Kotlin for Android development?",
+    "options": [
+      "Google",
+      "Apple",
+      "Microsoft",
+      "IBM"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which file is commonly used to write Kotlin code in Android projects?",
+    "options": [
+      ".kt",
+      ".java",
+      ".xml",
+      ".txt"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which language is primarily used with Android Studio for modern Android apps?",
+    "options": [
+      "Kotlin",
+      "C",
+      "PHP",
+      "Python"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "What is the main purpose of Android Studio?",
+    "options": [
+      "Develop Android applications",
+      "Edit images",
+      "Browse the internet",
+      "Manage databases"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which file format is commonly used to define Android layouts?",
+    "options": [
+      ".xml",
+      ".kt",
+      ".json",
+      ".css"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which Android component represents a single screen of an app?",
+    "options": [
+      "Activity",
+      "Package",
+      "Library",
+      "Service"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which widget is commonly used to display text in an Android app?",
+    "options": [
+      "TextView",
+      "ImageView",
+      "ButtonGroup",
+      "RecyclerView"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "What is the purpose of a data class in Kotlin?",
+    "options": [
+      "To store data efficiently",
+      "To create loops",
+      "To handle exceptions",
+      "To manage files"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which keyword is used to declare a data class?",
+    "options": [
+      "data",
+      "class",
+      "object",
+      "sealed"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "What is the purpose of a sealed class in Kotlin?",
+    "options": [
+      "To restrict class inheritance",
+      "To declare variables",
+      "To create arrays",
+      "To print output"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which Kotlin feature automatically generates equals(), hashCode(), and toString() for a data class?",
+    "options": [
+      "data class",
+      "sealed class",
+      "enum class",
+      "abstract class"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which Android UI element is mainly used to display images?",
+    "options": [
+      "ImageView",
+      "TextView",
+      "EditText",
+      "CheckBox"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which Android widget allows the user to enter text?",
+    "options": [
+      "EditText",
+      "TextView",
+      "Button",
+      "ImageView"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which Android widget is used to perform an action when tapped?",
+    "options": [
+      "Button",
+      "TextView",
+      "ImageView",
+      "ProgressBar"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Which Kotlin class type is used to represent a fixed set of constant values?",
+    "options": [
+      "enum class",
+      "data class",
+      "sealed class",
+      "open class"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "What is the main advantage of sealed classes over open classes?",
+    "options": [
+      "They allow only a limited set of subclasses",
+      "They improve internet speed",
+      "They replace interfaces",
+      "They create background threads"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which scope function returns the original object after executing a code block using 'it'?",
+    "options": [
+      "also",
+      "let",
+      "run",
+      "with"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which Android layout arranges its child views in a single row or column?",
+    "options": [
+      "LinearLayout",
+      "FrameLayout",
+      "ConstraintLayout",
+      "TableRow"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which Android layout is recommended for creating complex user interfaces with fewer nested views?",
+    "options": [
+      "ConstraintLayout",
+      "LinearLayout",
+      "FrameLayout",
+      "AbsoluteLayout"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which Kotlin feature is commonly used with sealed classes to ensure all possible cases are handled in a when expression?",
+    "options": [
+      "Exhaustive when expression",
+      "for loop",
+      "while loop",
+      "try-catch block"
+    ]
+  }
+]
