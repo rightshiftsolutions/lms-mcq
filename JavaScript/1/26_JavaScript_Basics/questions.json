@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "Which language is used to make web pages interactive?",
+    "options": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "SQL"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which keyword is used to declare a block-scoped variable in JavaScript?",
+    "options": [
+      "let",
+      "int",
+      "string",
+      "define"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which function displays a pop-up message with an OK button?",
+    "options": [
+      "alert()",
+      "prompt()",
+      "confirm()",
+      "print()"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which keyword is used to declare a constant value?",
+    "options": [
+      "const",
+      "var",
+      "fixed",
+      "static"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which symbol is used for single-line comments in JavaScript?",
+    "options": [
+      "//",
+      "/*",
+      "#",
+      "<!--"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which data type stores true or false values?",
+    "options": [
+      "Boolean",
+      "Number",
+      "String",
+      "Object"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which method is commonly used to display information in the browser console?",
+    "options": [
+      "console.log()",
+      "alert()",
+      "document.write()",
+      "window.print()"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which method returns the number of characters in a string?",
+    "options": [
+      "length",
+      "count()",
+      "size()",
+      "charCount()"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which loop is best suited when the number of iterations is known in advance?",
+    "options": [
+      "for",
+      "while",
+      "do...while",
+      "for...in"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which method is used to add an element to the end of an array?",
+    "options": [
+      "push()",
+      "pop()",
+      "shift()",
+      "slice()"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which method converts a JavaScript object into a JSON string?",
+    "options": [
+      "JSON.stringify()",
+      "JSON.parse()",
+      "JSON.encode()",
+      "JSON.object()"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which method selects all elements matching a CSS selector?",
+    "options": [
+      "document.querySelectorAll()",
+      "document.getElementById()",
+      "document.getElementsByName()",
+      "document.write()"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which operator is used to provide a default value when the left operand is null or undefined?",
+    "options": [
+      "??",
+      "&&",
+      "||",
+      "?:"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which method creates a new array containing elements that satisfy a condition?",
+    "options": [
+      "filter()",
+      "map()",
+      "forEach()",
+      "reduce()"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "What is the output of typeof NaN in JavaScript?",
+    "options": [
+      "number",
+      "NaN",
+      "undefined",
+      "object"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which array method executes a callback and returns a single accumulated value?",
+    "options": [
+      "reduce()",
+      "filter()",
+      "map()",
+      "find()"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which keyword is used to pause an async function until a Promise is resolved?",
+    "options": [
+      "await",
+      "yield",
+      "pause",
+      "async"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which method creates a shallow copy of part of an array without modifying the original array?",
+    "options": [
+      "slice()",
+      "splice()",
+      "split()",
+      "concat()"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which keyword is used to define a generator function?",
+    "options": [
+      "function*",
+      "generator",
+      "yield",
+      "async"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which JavaScript method schedules a function to run repeatedly at a fixed time interval?",
+    "options": [
+      "setInterval()",
+      "setTimeout()",
+      "requestAnimationFrame()",
+      "clearTimeout()"
+    ]
+  }
+]
