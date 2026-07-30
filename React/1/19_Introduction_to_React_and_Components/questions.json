@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "Which command is commonly used to create a new React project with Vite?",
+    "options": [
+      "npm create vite@latest",
+      "npm install react-only",
+      "node create-react",
+      "react new project"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "What is the root component in most React applications?",
+    "options": [
+      "App",
+      "Index",
+      "Home",
+      "MainPage"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which file is commonly used as the entry point of a React application in Vite?",
+    "options": [
+      "main.jsx",
+      "server.js",
+      "index.html",
+      "style.css"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "React applications are built by combining many small ______.",
+    "options": [
+      "Components",
+      "Databases",
+      "Tables",
+      "Functions only"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "What is the purpose of the App component?",
+    "options": [
+      "To organize and display other components",
+      "To create a database",
+      "To compile JavaScript",
+      "To connect to a server"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which symbol is used to close a self-closing JSX tag?",
+    "options": [
+      "/>",
+      "</>",
+      "=>",
+      "/*"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "What makes React applications easier to maintain?",
+    "options": [
+      "Breaking the UI into reusable components",
+      "Writing everything in one file",
+      "Avoiding JavaScript",
+      "Using only HTML"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which of the following can be reused multiple times in React?",
+    "options": [
+      "A component",
+      "A browser",
+      "A database",
+      "A server"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "JSX code is mainly written inside which language?",
+    "options": [
+      "JavaScript",
+      "Python",
+      "Java",
+      "C++"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which of the following is a valid reason to use React?",
+    "options": [
+      "To build interactive web interfaces",
+      "To replace CSS",
+      "To manage operating systems",
+      "To create SQL databases"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which file usually contains the main UI structure in a basic React project?",
+    "options": [
+      "App.jsx",
+      "package.json",
+      "README.md",
+      "vite.config.js"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "What is one characteristic of React components?",
+    "options": [
+      "They are independent and reusable",
+      "They can only be used once",
+      "They cannot contain HTML",
+      "They replace CSS files"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Why is JSX preferred in React development?",
+    "options": [
+      "It makes UI code easier to read and write",
+      "It removes the need for JavaScript",
+      "It creates databases automatically",
+      "It runs without a browser"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "What happens when multiple components are combined?",
+    "options": [
+      "They form a complete user interface",
+      "They create a database",
+      "They generate CSS automatically",
+      "They replace HTML files"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Which statement best describes React?",
+    "options": [
+      "It focuses on the View layer of web applications",
+      "It is a full database solution",
+      "It is an operating system",
+      "It is a browser extension"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which feature allows developers to divide large interfaces into smaller parts?",
+    "options": [
+      "Components",
+      "Variables",
+      "Loops",
+      "Comments"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "A React component should ideally have which responsibility?",
+    "options": [
+      "Handling one part of the interface",
+      "Managing the entire internet",
+      "Replacing JavaScript",
+      "Creating multiple databases"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "What is one benefit of using many small components instead of one large file?",
+    "options": [
+      "Code becomes easier to understand and update",
+      "The application stops using HTML",
+      "No JavaScript is needed",
+      "The browser becomes a server"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which type of application is React commonly used to build?",
+    "options": [
+      "Single-page applications",
+      "Spreadsheet software",
+      "Operating systems",
+      "Antivirus software"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which principle is at the core of React development?",
+    "options": [
+      "Building UIs using reusable components",
+      "Creating database tables first",
+      "Writing only CSS",
+      "Avoiding JavaScript completely"
+    ]
+  }
+]
