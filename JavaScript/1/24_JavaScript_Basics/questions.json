@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "Which keyword allows a variable to be reassigned but not redeclared in the same scope?",
+    "options": [
+      "let",
+      "const",
+      "static",
+      "fixed"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which JavaScript data type is used to store a collection of values?",
+    "options": [
+      "Array",
+      "Boolean",
+      "Number",
+      "String"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which method is used to convert a JSON string into a JavaScript object?",
+    "options": [
+      "JSON.parse()",
+      "JSON.stringify()",
+      "JSON.convert()",
+      "JSON.object()"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which operator returns the remainder after division?",
+    "options": [
+      "%",
+      "/",
+      "*",
+      "+"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which keyword is used to create a block of code that can be called later?",
+    "options": [
+      "function",
+      "method",
+      "loop",
+      "class"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which method is used to select the first element matching a CSS selector?",
+    "options": [
+      "document.querySelector()",
+      "document.getElementById()",
+      "document.getElementsByClassName()",
+      "document.write()"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which value is returned by typeof null in JavaScript?",
+    "options": [
+      "object",
+      "null",
+      "undefined",
+      "boolean"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which operator is used for logical AND?",
+    "options": [
+      "&&",
+      "||",
+      "!",
+      "&"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which built-in object is used to work with dates and time?",
+    "options": [
+      "Date",
+      "Time",
+      "Calendar",
+      "Clock"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which statement is used to handle multiple conditions based on one expression?",
+    "options": [
+      "switch",
+      "if",
+      "for",
+      "while"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which keyword is used to create a class in JavaScript?",
+    "options": [
+      "class",
+      "object",
+      "constructor",
+      "prototype"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which method removes the last element from an array?",
+    "options": [
+      "pop()",
+      "push()",
+      "shift()",
+      "unshift()"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which method adds a new element to the end of an array?",
+    "options": [
+      "push()",
+      "pop()",
+      "slice()",
+      "shift()"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which event occurs when a web page has completely loaded?",
+    "options": [
+      "onload",
+      "onclick",
+      "onchange",
+      "onfocus"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Which method returns the length of a string?",
+    "options": [
+      "length",
+      "size()",
+      "count()",
+      "index()"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which loop always executes at least once before checking the condition?",
+    "options": [
+      "do...while",
+      "while",
+      "for",
+      "for...in"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which operator is used to check whether two values are not equal in both value and type?",
+    "options": [
+      "!==",
+      "!=",
+      "==",
+      "==="
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which method joins all elements of an array into a single string?",
+    "options": [
+      "join()",
+      "split()",
+      "concat()",
+      "slice()"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which object is the top-level object in a browser JavaScript environment?",
+    "options": [
+      "window",
+      "document",
+      "navigator",
+      "screen"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which method removes leading and trailing spaces from a string?",
+    "options": [
+      "trim()",
+      "slice()",
+      "replace()",
+      "substring()"
+    ]
+  }
+]
