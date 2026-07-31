@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "Which HTML element is used to create a form?",
+    "options": [
+      "<form>",
+      "<input>",
+      "<fieldset>",
+      "<label>"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which CSS property changes the background color of a form?",
+    "options": [
+      "background-color",
+      "font-size",
+      "border-style",
+      "text-align"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which CSS property changes the text color inside a form?",
+    "options": [
+      "color",
+      "background-color",
+      "opacity",
+      "display"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which CSS property adds space inside an input field?",
+    "options": [
+      "padding",
+      "margin",
+      "border",
+      "outline"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which CSS property adds space outside a form element?",
+    "options": [
+      "margin",
+      "padding",
+      "width",
+      "height"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which CSS property is used to round the corners of an input box?",
+    "options": [
+      "border-radius",
+      "border-style",
+      "border-width",
+      "box-shadow"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which CSS selector targets all input elements?",
+    "options": [
+      "input",
+      ".input",
+      "#input",
+      "*input"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which CSS pseudo-class styles an input when the user clicks on it?",
+    "options": [
+      ":focus",
+      ":hover",
+      ":active",
+      ":checked"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which CSS pseudo-class styles a button when the mouse pointer is over it?",
+    "options": [
+      ":hover",
+      ":focus",
+      ":visited",
+      ":target"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which CSS property is commonly used to remove the default focus outline?",
+    "options": [
+      "outline",
+      "border",
+      "opacity",
+      "visibility"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which CSS property controls the width of an input field?",
+    "options": [
+      "width",
+      "height",
+      "size",
+      "length"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which CSS property adds a shadow around a form input?",
+    "options": [
+      "box-shadow",
+      "text-shadow",
+      "filter",
+      "outline"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which CSS selector styles only text input fields?",
+    "options": [
+      "input[type=\"text\"]",
+      "input.text",
+      "#text",
+      "text-input"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which CSS property is commonly used to change the mouse pointer when hovering over a button?",
+    "options": [
+      "cursor",
+      "pointer",
+      "hover",
+      "display"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Which CSS pseudo-class selects a checked checkbox or radio button?",
+    "options": [
+      ":checked",
+      ":selected",
+      ":focus",
+      ":enabled"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which CSS pseudo-class selects a disabled form element?",
+    "options": [
+      ":disabled",
+      ":inactive",
+      ":readonly",
+      ":hidden"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which CSS pseudo-class selects a required input field?",
+    "options": [
+      ":required",
+      ":mandatory",
+      ":needed",
+      ":valid"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which CSS pseudo-class selects an input with valid data?",
+    "options": [
+      ":valid",
+      ":correct",
+      ":verified",
+      ":accepted"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which CSS pseudo-class selects an input with invalid data?",
+    "options": [
+      ":invalid",
+      ":error",
+      ":wrong",
+      ":empty"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which CSS selector targets only email input fields?",
+    "options": [
+      "input[type=\"email\"]",
+      "input.email",
+      "#email",
+      "email-input"
+    ]
+  }
+]
