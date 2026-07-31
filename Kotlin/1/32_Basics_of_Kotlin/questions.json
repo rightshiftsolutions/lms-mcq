@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "Which keyword is used to create a singleton object in Kotlin?",
+    "options": [
+      "class",
+      "singleton",
+      "object",
+      "instance"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which keyword is used to define a companion object in Kotlin?",
+    "options": [
+      "static",
+      "companion",
+      "shared",
+      "global"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which function checks the length of a string named text in Kotlin?",
+    "options": [
+      "text.size()",
+      "text.count()",
+      "text.length",
+      "length(text)"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which operator is used to concatenate two strings in Kotlin?",
+    "options": [
+      "&",
+      "+",
+      ".",
+      "*"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which keyword is used to define a secondary constructor in Kotlin?",
+    "options": [
+      "constructor",
+      "init",
+      "create",
+      "build"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which block is executed when an object is created in Kotlin?",
+    "options": [
+      "main",
+      "constructor",
+      "init",
+      "start"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which collection stores only unique elements in Kotlin?",
+    "options": [
+      "Set",
+      "List",
+      "Array",
+      "String"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which collection stores key-value pairs in Kotlin?",
+    "options": [
+      "List",
+      "Array",
+      "Map",
+      "Set"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which function is used to find the number of elements in a list?",
+    "options": [
+      "length",
+      "count()",
+      "size",
+      "total()"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which keyword is used to define an abstract class in Kotlin?",
+    "options": [
+      "virtual",
+      "abstract",
+      "open",
+      "base"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which operator checks whether an object belongs to a specific type in Kotlin?",
+    "options": [
+      "typeof",
+      "instanceof",
+      "is",
+      "as"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which keyword is used to perform an unsafe type cast in Kotlin?",
+    "options": [
+      "cast",
+      "to",
+      "as",
+      "is"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which keyword is used to declare a lambda parameter implicitly when there is only one parameter?",
+    "options": [
+      "this",
+      "it",
+      "self",
+      "arg"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which range expression includes both the start and end values?",
+    "options": [
+      "until",
+      "..",
+      "downTo",
+      "step"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Which keyword is used to skip to the next iteration of a loop?",
+    "options": [
+      "stop",
+      "continue",
+      "break",
+      "next"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which function removes leading and trailing spaces from a string in Kotlin?",
+    "options": [
+      "clean()",
+      "trim()",
+      "strip()",
+      "removeSpace()"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which operator is used to provide a default value when a nullable expression is null?",
+    "options": [
+      "?:",
+      "??",
+      "!!",
+      "?."
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which function converts all characters of a string to uppercase in modern Kotlin?",
+    "options": [
+      "capitalize()",
+      "upper()",
+      "uppercase()",
+      "toUpper()"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which collection type maintains the order of inserted elements and allows duplicates?",
+    "options": [
+      "Set",
+      "Map",
+      "Array",
+      "List"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which keyword is used to create a type alias in Kotlin?",
+    "options": [
+      "typedef",
+      "type",
+      "alias",
+      "typealias"
+    ]
+  }
+]
