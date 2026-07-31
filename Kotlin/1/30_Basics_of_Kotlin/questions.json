@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "Which company announced first-class support for Kotlin for Android development?",
+    "options": [
+      "Apple",
+      "Google",
+      "IBM",
+      "Oracle"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which keyword is used to declare a constant inside an object or companion object in Kotlin?",
+    "options": [
+      "static",
+      "const",
+      "fixed",
+      "final"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which of the following is a valid Kotlin identifier?",
+    "options": [
+      "123name",
+      "user-name",
+      "userName",
+      "class"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which symbol is used to specify the type of a variable in Kotlin?",
+    "options": [
+      ";",
+      "=",
+      ":",
+      ","
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which keyword is used to represent an instance of the current class in Kotlin?",
+    "options": [
+      "current",
+      "self",
+      "this",
+      "super"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which data type is used to store a single Unicode character in Kotlin?",
+    "options": [
+      "Text",
+      "Char",
+      "String",
+      "Byte"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which of the following is a floating-point data type in Kotlin?",
+    "options": [
+      "Float",
+      "Int",
+      "Long",
+      "Short"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "What is the default visibility modifier for declarations in Kotlin?",
+    "options": [
+      "private",
+      "protected",
+      "public",
+      "internal"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which function prints text without moving to the next line?",
+    "options": [
+      "print()",
+      "println()",
+      "echo()",
+      "display()"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which keyword is used to inherit a class in Kotlin?",
+    "options": [
+      "inherits",
+      "extends",
+      "implements",
+      ":"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which keyword allows a class to be inherited in Kotlin?",
+    "options": [
+      "public",
+      "abstract",
+      "open",
+      "extend"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which data type stores 64-bit integer values in Kotlin?",
+    "options": [
+      "Int",
+      "Short",
+      "Long",
+      "Byte"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which keyword is used to exit a loop immediately in Kotlin?",
+    "options": [
+      "break",
+      "continue",
+      "return",
+      "stop"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which keyword skips the current iteration of a loop in Kotlin?",
+    "options": [
+      "exit",
+      "break",
+      "continue",
+      "pass"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Which operator is used for logical AND in Kotlin?",
+    "options": [
+      "&",
+      "&&",
+      "||",
+      "!"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which function converts a string to an integer in Kotlin?",
+    "options": [
+      "toNumber()",
+      "toInt()",
+      "parseInt()",
+      "intValue()"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which keyword is used to define a package in Kotlin?",
+    "options": [
+      "package",
+      "namespace",
+      "module",
+      "import"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which keyword is used to include classes from another package in Kotlin?",
+    "options": [
+      "using",
+      "include",
+      "import",
+      "require"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which of the following is the correct Boolean literal in Kotlin?",
+    "options": [
+      "TRUE",
+      "Yes",
+      "true",
+      "1"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which function converts an integer to a string in Kotlin?",
+    "options": [
+      "string()",
+      "toString()",
+      "asString()",
+      "convertString()"
+    ]
+  }
+]
