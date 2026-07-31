@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "What does CSS stand for?",
+    "options": [
+      "Cascading Style Sheets",
+      "Creative Style System",
+      "Computer Style Syntax",
+      "Color Sheet Standard"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which HTML tag is commonly used to link an external CSS file?",
+    "options": [
+      "<style>",
+      "<link>",
+      "<css>",
+      "<script>"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which CSS property changes the text color?",
+    "options": [
+      "background-color",
+      "font-color",
+      "color",
+      "text-style"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which CSS property is used to change the background color of an element?",
+    "options": [
+      "color",
+      "bg-color",
+      "background-style",
+      "background-color"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which symbol is used to select a class in CSS?",
+    "options": [
+      ".",
+      "#",
+      "",
+      "@"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which symbol is used to select an element by its ID?",
+    "options": [
+      ".",
+      "#",
+      "",
+      "&"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which property is used to change the font size?",
+    "options": [
+      "font-weight",
+      "text-size",
+      "font-size",
+      "size"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which CSS property makes text bold?",
+    "options": [
+      "font-style",
+      "font-weight",
+      "text-bold",
+      "bold"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which property is used to align text horizontally?",
+    "options": [
+      "text-align",
+      "align-text",
+      "text-position",
+      "horizontal-align"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which CSS property adds space inside an element's border?",
+    "options": [
+      "border",
+      "padding",
+      "margin",
+      "spacing"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which CSS property adds space outside an element's border?",
+    "options": [
+      "padding",
+      "border-spacing",
+      "margin",
+      "gap"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which CSS property is used to add a border around an element?",
+    "options": [
+      "outline",
+      "frame",
+      "edge",
+      "border"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which value of the display property makes an element invisible while removing its space?",
+    "options": [
+      "display: none",
+      "visibility: hidden",
+      "opacity: 0",
+      "display: hidden"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which property is used to change the typeface of text?",
+    "options": [
+      "font-style",
+      "font-family",
+      "font-weight",
+      "text-family"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Which CSS property controls the transparency of an element?",
+    "options": [
+      "visibility",
+      "transparent",
+      "opacity",
+      "filter"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which CSS property is used to round the corners of an element?",
+    "options": [
+      "corner-radius",
+      "round",
+      "border-style",
+      "border-radius"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which unit is relative to the font size of the parent element?",
+    "options": [
+      "em",
+      "px",
+      "cm",
+      "pt"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which CSS property is used to control the stacking order of positioned elements?",
+    "options": [
+      "stack",
+      "z-index",
+      "layer",
+      "order"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which CSS property is used to create space between letters?",
+    "options": [
+      "text-spacing",
+      "word-spacing",
+      "letter-spacing",
+      "font-spacing"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which CSS property is used to add a shadow to text?",
+    "options": [
+      "font-shadow",
+      "shadow",
+      "box-shadow",
+      "text-shadow"
+    ]
+  }
+]
