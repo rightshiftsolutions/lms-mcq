@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "Who developed Kotlin?",
+    "options": [
+      "JetBrains",
+      "Google",
+      "Microsoft",
+      "Oracle"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which keyword is used to declare an immutable variable in Kotlin?",
+    "options": [
+      "var",
+      "val",
+      "let",
+      "const"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which function is the entry point of a Kotlin program?",
+    "options": [
+      "start()",
+      "run()",
+      "main()",
+      "init()"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which file extension is used for Kotlin source files?",
+    "options": [
+      ".java",
+      ".class",
+      ".kt",
+      ".kotlin"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which keyword is used to declare a mutable variable in Kotlin?",
+    "options": [
+      "let",
+      "val",
+      "const",
+      "var"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Kotlin primarily runs on which platform?",
+    "options": [
+      "Python Interpreter",
+      "Java Virtual Machine (JVM)",
+      "Ruby Runtime",
+      "Node.js"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which statement is used to print output in Kotlin?",
+    "options": [
+      "echo()",
+      "println()",
+      "display()",
+      "write()"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which keyword is used to define a function in Kotlin?",
+    "options": [
+      "method",
+      "fun",
+      "function",
+      "define"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which data type is used to store whole numbers in Kotlin?",
+    "options": [
+      "String",
+      "Double",
+      "Int",
+      "Boolean"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which value represents a true or false condition in Kotlin?",
+    "options": [
+      "Char",
+      "Boolean",
+      "String",
+      "Float"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which symbol is used for single-line comments in Kotlin?",
+    "options": [
+      "<!--",
+      "//",
+      "#",
+      "/*"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which keyword is used to create a class in Kotlin?",
+    "options": [
+      "object",
+      "struct",
+      "class",
+      "new"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which keyword is used to declare a read-only variable?",
+    "options": [
+      "val",
+      "var",
+      "lateinit",
+      "mutable"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which operator is used for equality comparison in Kotlin?",
+    "options": [
+      "===",
+      "!=",
+      "=",
+      "=="
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Which keyword is used for conditional execution in Kotlin?",
+    "options": [
+      "loop",
+      "case",
+      "if",
+      "when"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which keyword is used to define an object in Kotlin?",
+    "options": [
+      "class",
+      "new",
+      "create",
+      "object"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which type is used to store decimal numbers in Kotlin?",
+    "options": [
+      "Float",
+      "Boolean",
+      "String",
+      "Char"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which keyword is used to handle multiple conditions in Kotlin?",
+    "options": [
+      "switch",
+      "when",
+      "ifelse",
+      "select"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Kotlin is fully interoperable with which programming language?",
+    "options": [
+      "Python",
+      "C++",
+      "Java",
+      "Swift"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which keyword is used to represent no value in Kotlin?",
+    "options": [
+      "empty",
+      "void",
+      "nothing",
+      "null"
+    ]
+  }
+]
