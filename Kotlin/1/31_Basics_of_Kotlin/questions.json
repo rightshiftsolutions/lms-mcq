@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "Which Kotlin feature helps prevent NullPointerException errors?",
+    "options": [
+      "Automatic memory management",
+      "Null safety",
+      "Inheritance",
+      "Method overloading"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which symbol is used to declare a nullable type in Kotlin?",
+    "options": [
+      "!",
+      "#",
+      "?",
+      "&"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which keyword is used to define an interface in Kotlin?",
+    "options": [
+      "implements",
+      "protocol",
+      "interface",
+      "abstract"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which keyword is used to define an enum in Kotlin?",
+    "options": [
+      "enum",
+      "enumeration",
+      "enum class",
+      "choice"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which scope function returns the context object and uses 'this' inside its block?",
+    "options": [
+      "let",
+      "also",
+      "apply",
+      "run"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which Kotlin keyword is used to define a data class?",
+    "options": [
+      "record",
+      "entity",
+      "data",
+      "model"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which data type stores values from -128 to 127?",
+    "options": [
+      "Byte",
+      "Short",
+      "Int",
+      "Long"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which loop is commonly used to iterate over a range in Kotlin?",
+    "options": [
+      "while",
+      "do-while",
+      "for",
+      "repeat"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which expression replaces the traditional switch statement in Kotlin?",
+    "options": [
+      "case",
+      "select",
+      "choose",
+      "when"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which keyword is used to return a value from a function?",
+    "options": [
+      "return",
+      "yield",
+      "break",
+      "exit"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which symbol is used to access a class member in Kotlin?",
+    "options": [
+      "->",
+      ".",
+      "::",
+      ":"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which function reads a line of input in modern Kotlin?",
+    "options": [
+      "input()",
+      "scan()",
+      "readln()",
+      "getline()"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "When creating an object in Kotlin, which keyword is used before the constructor call?",
+    "options": [
+      "new",
+      "create",
+      "object",
+      "No keyword is required"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which visibility modifier makes a declaration accessible only inside the same class?",
+    "options": [
+      "public",
+      "internal",
+      "protected",
+      "private"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Which keyword refers to the immediate parent class?",
+    "options": [
+      "base",
+      "parent",
+      "super",
+      "this"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which of the following is a valid Kotlin string declaration?",
+    "options": [
+      "String name = \"Kotlin\"",
+      "string name = \"Kotlin\"",
+      "text name = \"Kotlin\"",
+      "val name = \"Kotlin\""
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which operator safely accesses a property of a nullable object?",
+    "options": [
+      "?.",
+      ".",
+      "::",
+      "!!"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which keyword is used to throw an exception in Kotlin?",
+    "options": [
+      "raise",
+      "throws",
+      "throw",
+      "error"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which Kotlin type represents a function that does not return a meaningful value?",
+    "options": [
+      "Void",
+      "Nothing",
+      "Null",
+      "Unit"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which operator forces a nullable value to be treated as non-null?",
+    "options": [
+      "?.",
+      "!!",
+      "::",
+      "?:"
+    ]
+  }
+]
