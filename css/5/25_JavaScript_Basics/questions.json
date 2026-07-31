@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "What is JavaScript mainly used for?",
+    "options": [
+      "Adding interactivity to web pages",
+      "Styling web pages",
+      "Creating databases",
+      "Managing servers"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which HTML tag is used to include JavaScript?",
+    "options": [
+      "<js>",
+      "<script>",
+      "<javascript>",
+      "<code>"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which keyword is commonly used to declare a variable?",
+    "options": [
+      "int",
+      "string",
+      "let",
+      "class"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which function displays a popup message box?",
+    "options": [
+      "prompt()",
+      "console.log()",
+      "print()",
+      "alert()"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which data type stores true or false values?",
+    "options": [
+      "Boolean",
+      "Number",
+      "String",
+      "Object"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which symbol starts a single-line comment in JavaScript?",
+    "options": [
+      "#",
+      "//",
+      "<!--",
+      "**"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which method writes a message to the browser console?",
+    "options": [
+      "document.write()",
+      "alert()",
+      "console.log()",
+      "window.print()"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which keyword is used to define a function?",
+    "options": [
+      "func",
+      "define",
+      "function",
+      "method"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which operator checks both value and data type for equality?",
+    "options": [
+      "===",
+      "==",
+      "=",
+      "!="
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which statement is used to perform different actions based on different conditions?",
+    "options": [
+      "repeat",
+      "switch",
+      "while",
+      "continue"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which loop is best used when the number of iterations is known?",
+    "options": [
+      "while",
+      "do...while",
+      "for",
+      "switch"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which keyword immediately exits a loop?",
+    "options": [
+      "continue",
+      "return",
+      "exit",
+      "break"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which DOM method selects an element by its ID?",
+    "options": [
+      "getElementById()",
+      "querySelectorAll()",
+      "getElementsByTagName()",
+      "getElementsByClassName()"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which event occurs when a user clicks on an HTML element?",
+    "options": [
+      "onchange",
+      "onclick",
+      "onload",
+      "onhover"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "What is the output of typeof null in JavaScript?",
+    "options": [
+      "null",
+      "undefined",
+      "boolean",
+      "object"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which method converts a JSON string into a JavaScript object?",
+    "options": [
+      "JSON.stringify()",
+      "JSON.convert()",
+      "Object.parse()",
+      "JSON.parse()"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which JavaScript feature allows a function to remember variables from its outer scope?",
+    "options": [
+      "Prototype",
+      "Closure",
+      "Callback",
+      "Inheritance"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which keyword is used to handle errors in a try block?",
+    "options": [
+      "throw",
+      "catch",
+      "finally",
+      "error"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which method creates a new array by applying a function to every array element?",
+    "options": [
+      "filter()",
+      "forEach()",
+      "map()",
+      "reduce()"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which JavaScript keyword is used to work with asynchronous operations inside a function?",
+    "options": [
+      "defer",
+      "await",
+      "callback",
+      "sync"
+    ]
+  }
+]
