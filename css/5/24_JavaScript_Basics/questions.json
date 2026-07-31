@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "What is JavaScript mainly used for?",
+    "options": [
+      "Styling web pages",
+      "Adding interactivity to web pages",
+      "Creating database tables",
+      "Managing web hosting"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which HTML tag is used to include JavaScript?",
+    "options": [
+      "<javascript>",
+      "<js>",
+      "<script>",
+      "<code>"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which keyword is used to declare a variable in modern JavaScript?",
+    "options": [
+      "int",
+      "var",
+      "let",
+      "string"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which function is used to display a message box in JavaScript?",
+    "options": [
+      "prompt()",
+      "console.log()",
+      "print()",
+      "alert()"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which method writes output to the browser console?",
+    "options": [
+      "console.log()",
+      "document.write()",
+      "alert()",
+      "window.print()"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which symbol is used for single-line comments in JavaScript?",
+    "options": [
+      "<!--",
+      "//",
+      "##",
+      "**"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which data type represents true or false values?",
+    "options": [
+      "String",
+      "Number",
+      "Boolean",
+      "Array"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which keyword is used to define a function?",
+    "options": [
+      "method",
+      "function",
+      "define",
+      "func"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which operator is used for strict equality comparison?",
+    "options": [
+      "===",
+      "=",
+      "!=",
+      "=="
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which statement is used to make decisions in JavaScript?",
+    "options": [
+      "repeat",
+      "if",
+      "select",
+      "loop"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which loop executes as long as a condition is true?",
+    "options": [
+      "switch",
+      "if",
+      "while",
+      "case"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which keyword is used to stop a loop immediately?",
+    "options": [
+      "continue",
+      "exit",
+      "return",
+      "break"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which object represents the web page in JavaScript?",
+    "options": [
+      "document",
+      "window",
+      "screen",
+      "history"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which method is used to select an element by its ID?",
+    "options": [
+      "querySelectorAll()",
+      "getElementById()",
+      "getElementsByClassName()",
+      "getElementsByTagName()"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Which event occurs when a user clicks an element?",
+    "options": [
+      "onhover",
+      "onchange",
+      "onclick",
+      "onload"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which method converts a string to an integer?",
+    "options": [
+      "Number()",
+      "toString()",
+      "parseFloat()",
+      "parseInt()"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which value represents an undefined variable that has not been assigned?",
+    "options": [
+      "undefined",
+      "null",
+      "0",
+      "false"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which keyword is used to create a constant variable?",
+    "options": [
+      "let",
+      "const",
+      "fixed",
+      "static"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which built-in object is used to work with dates and times?",
+    "options": [
+      "Time",
+      "Clock",
+      "Date",
+      "Calendar"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which method is used to convert a JavaScript object into a JSON string?",
+    "options": [
+      "JSON.parse()",
+      "Object.stringify()",
+      "JSON.convert()",
+      "JSON.stringify()"
+    ]
+  }
+]
