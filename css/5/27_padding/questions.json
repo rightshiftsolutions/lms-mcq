@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "What does the CSS padding property control?",
+    "options": [
+      "Space inside an element's border",
+      "Space outside an element's border",
+      "The border thickness",
+      "The font size"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which CSS property adds space between content and the border?",
+    "options": [
+      "margin",
+      "padding",
+      "border",
+      "spacing"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which property sets the padding on the top side of an element?",
+    "options": [
+      "padding-left",
+      "padding-bottom",
+      "padding-top",
+      "padding-right"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which property sets the padding on the bottom side?",
+    "options": [
+      "margin-bottom",
+      "padding-end",
+      "padding-down",
+      "padding-bottom"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which property sets the padding on the left side?",
+    "options": [
+      "padding-left",
+      "margin-left",
+      "left-padding",
+      "padding-start"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which property sets the padding on the right side?",
+    "options": [
+      "margin-right",
+      "padding-right",
+      "right-padding",
+      "padding-end"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "What unit is commonly used for padding values in CSS?",
+    "options": [
+      "kg",
+      "sec",
+      "px",
+      "litre"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "What does 'padding: 20px;' apply?",
+    "options": [
+      "20px only to the top",
+      "20px to the left and right",
+      "20px to all four sides",
+      "20px only to the bottom"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "What does 'padding: 10px 20px;' mean?",
+    "options": [
+      "Top & bottom: 10px, Left & right: 20px",
+      "Top: 10px, Bottom: 20px",
+      "Left: 10px, Right: 20px",
+      "Top & left: 10px, Bottom & right: 20px"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "How many values can the padding shorthand property accept?",
+    "options": [
+      "Only 1",
+      "Up to 4",
+      "Only 2",
+      "Only 3"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "What does 'padding: 5px 10px 15px;' mean?",
+    "options": [
+      "Top: 5px, Left & Right: 10px, Bottom: 15px",
+      "Top: 5px, Bottom: 10px, Left: 15px",
+      "Left: 5px, Right: 10px, Bottom: 15px",
+      "Top & Bottom: 5px, Left & Right: 15px"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "What does 'padding: 5px 10px 15px 20px;' represent?",
+    "options": [
+      "Top, Bottom, Left, Right",
+      "Left, Right, Top, Bottom",
+      "Top, Left, Bottom, Right",
+      "Top, Right, Bottom, Left"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which value removes all padding from an element?",
+    "options": [
+      "padding: 0;",
+      "padding: none;",
+      "padding: auto;",
+      "padding: remove;"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which CSS box model property is inside the border?",
+    "options": [
+      "margin",
+      "padding",
+      "outline",
+      "display"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Can padding accept percentage (%) values?",
+    "options": [
+      "No",
+      "Only for left padding",
+      "Yes",
+      "Only for top padding"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which of the following is a valid padding declaration?",
+    "options": [
+      "padding = 10px;",
+      "padding -> 10px;",
+      "padding => 10px;",
+      "padding: 10px;"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which CSS property affects the space between content and border without changing the margin?",
+    "options": [
+      "padding",
+      "margin",
+      "border",
+      "width"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Padding increases which part of an element?",
+    "options": [
+      "Only text size",
+      "The inner space",
+      "Only border thickness",
+      "Only margin"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which CSS property is often used together with padding to create spacing around content?",
+    "options": [
+      "opacity",
+      "z-index",
+      "margin",
+      "float"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "In the CSS box model, padding is located between which two parts?",
+    "options": [
+      "Margin and outline",
+      "Border and margin",
+      "Outline and border",
+      "Content and border"
+    ]
+  }
+]
