@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "What is the main purpose of JavaScript?",
+    "options": [
+      "Creating databases",
+      "Adding interactivity to web pages",
+      "Styling web pages",
+      "Managing web servers"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which HTML tag is used to add JavaScript code?",
+    "options": [
+      "<javascript>",
+      "<script>",
+      "<style>",
+      "<js>"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which keyword is used to declare a variable that can be reassigned?",
+    "options": [
+      "const",
+      "var",
+      "let",
+      "fixed"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which function displays a popup alert box?",
+    "options": [
+      "prompt()",
+      "confirm()",
+      "console.log()",
+      "alert()"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which method prints output in the browser console?",
+    "options": [
+      "console.log()",
+      "document.write()",
+      "window.print()",
+      "alert()"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which symbol is used for single-line comments?",
+    "options": [
+      "#",
+      "//",
+      "<!--",
+      "**"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which data type stores true or false values?",
+    "options": [
+      "String",
+      "Array",
+      "Boolean",
+      "Number"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which keyword is used to define a function?",
+    "options": [
+      "func",
+      "define",
+      "function",
+      "method"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which operator checks both value and type?",
+    "options": [
+      "===",
+      "==",
+      "=",
+      "!="
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which statement is used for conditional execution?",
+    "options": [
+      "repeat",
+      "if",
+      "loop",
+      "switchcase"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which loop repeats until its condition becomes false?",
+    "options": [
+      "for",
+      "switch",
+      "while",
+      "case"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which keyword exits a loop immediately?",
+    "options": [
+      "continue",
+      "return",
+      "exit",
+      "break"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which object represents the current web page?",
+    "options": [
+      "document",
+      "window",
+      "navigator",
+      "screen"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which method selects an element using its ID?",
+    "options": [
+      "querySelectorAll()",
+      "getElementById()",
+      "getElementsByClassName()",
+      "getElementsByTagName()"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Which event occurs when a user clicks an HTML element?",
+    "options": [
+      "onchange",
+      "onhover",
+      "onclick",
+      "onload"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which method converts a string into an integer?",
+    "options": [
+      "Number()",
+      "parseFloat()",
+      "toString()",
+      "parseInt()"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which value is assigned to a declared variable before it is initialized?",
+    "options": [
+      "undefined",
+      "null",
+      "0",
+      "false"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which keyword is used to declare a constant variable?",
+    "options": [
+      "let",
+      "const",
+      "var",
+      "static"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which built-in object is used to work with dates?",
+    "options": [
+      "Clock",
+      "Calendar",
+      "Date",
+      "Time"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which method converts a JavaScript object into a JSON string?",
+    "options": [
+      "JSON.parse()",
+      "Object.toJSON()",
+      "JSON.convert()",
+      "JSON.stringify()"
+    ]
+  }
+]
