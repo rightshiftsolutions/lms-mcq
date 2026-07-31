@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "Who developed Kotlin?",
+    "options": [
+      "Google",
+      "JetBrains",
+      "Microsoft",
+      "Oracle"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Kotlin mainly runs on which platform?",
+    "options": [
+      "Python VM",
+      "Java Virtual Machine (JVM)",
+      "Ruby VM",
+      "PHP Engine"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which keyword is used to declare a read-only variable in Kotlin?",
+    "options": [
+      "var",
+      "const",
+      "val",
+      "let"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which keyword is used to declare a mutable variable in Kotlin?",
+    "options": [
+      "val",
+      "let",
+      "var",
+      "final"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which file extension is used for Kotlin source files?",
+    "options": [
+      ".java",
+      ".kot",
+      ".kts",
+      ".kt"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which function is commonly used to display output in Kotlin?",
+    "options": [
+      "printLine()",
+      "println()",
+      "echo()",
+      "display()"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which company officially supports Kotlin for Android development?",
+    "options": [
+      "Apple",
+      "IBM",
+      "Google",
+      "Adobe"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which data type is used to store whole numbers in Kotlin?",
+    "options": [
+      "Double",
+      "String",
+      "Boolean",
+      "Int"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which symbol is used to specify the type of a variable in Kotlin?",
+    "options": [
+      "=",
+      ":",
+      ";",
+      "#"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "What is the default value of an uninitialized local variable in Kotlin?",
+    "options": [
+      "0",
+      "null",
+      "It must be initialized before use",
+      "false"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which keyword is used to define a function in Kotlin?",
+    "options": [
+      "fun",
+      "function",
+      "def",
+      "method"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which Kotlin type is used to store true or false values?",
+    "options": [
+      "String",
+      "Boolean",
+      "Char",
+      "Int"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which operator is used to safely access members of a nullable object?",
+    "options": [
+      ".",
+      "::",
+      "?.",
+      "!!"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which keyword is used for conditional branching in Kotlin?",
+    "options": [
+      "switch",
+      "case",
+      "match",
+      "if"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "What is the Kotlin equivalent of Java's switch statement?",
+    "options": [
+      "select",
+      "when",
+      "choose",
+      "case"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which operator asserts that a nullable value is not null?",
+    "options": [
+      "?.",
+      "?:",
+      "!!",
+      "??"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which keyword is used to create a class in Kotlin?",
+    "options": [
+      "struct",
+      "object",
+      "type",
+      "class"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which function returns the length of a string named text?",
+    "options": [
+      "text.count()",
+      "text.size",
+      "text.length",
+      "text.len()"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which of the following is a nullable Int type in Kotlin?",
+    "options": [
+      "Int",
+      "Int?",
+      "Nullable<Int>",
+      "Number?"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which scope function returns the original object after executing a block?",
+    "options": [
+      "let",
+      "run",
+      "with",
+      "also"
+    ]
+  }
+]
