@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "What does the CSS padding property do?",
+    "options": [
+      "Adds space inside an element's border",
+      "Adds space outside an element",
+      "Changes the border color",
+      "Changes the font size"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Padding is the space between which two parts of an element?",
+    "options": [
+      "Content and border",
+      "Border and margin",
+      "Margin and content",
+      "Border and outline"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which CSS property sets padding on all four sides?",
+    "options": [
+      "padding",
+      "margin",
+      "spacing",
+      "border-spacing"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which property sets padding only at the top?",
+    "options": [
+      "padding-top",
+      "margin-top",
+      "top-padding",
+      "border-top"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which property sets padding only on the left side?",
+    "options": [
+      "padding-left",
+      "margin-left",
+      "left-padding",
+      "border-left"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "What does the declaration 'padding: 20px;' do?",
+    "options": [
+      "Applies 20px padding to all four sides",
+      "Applies 20px padding only to the top",
+      "Applies 20px margin to all sides",
+      "Applies 20px border width"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "What does 'padding: 10px 20px;' mean?",
+    "options": [
+      "10px top/bottom and 20px left/right",
+      "10px left/right and 20px top/bottom",
+      "10px on all sides",
+      "10px top and 20px bottom only"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "What does 'padding: 5px 10px 15px 20px;' represent?",
+    "options": [
+      "Top, right, bottom, left",
+      "Left, top, right, bottom",
+      "Top, left, bottom, right",
+      "Bottom, right, top, left"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which unit is commonly used for padding values?",
+    "options": [
+      "px",
+      "rgb",
+      "url",
+      "class"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Can padding be set using percentage values?",
+    "options": [
+      "Yes",
+      "No",
+      "Only for top padding",
+      "Only for left padding"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which property increases the empty space inside an element?",
+    "options": [
+      "padding",
+      "margin",
+      "outline",
+      "display"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which CSS property is NOT used to set padding?",
+    "options": [
+      "margin",
+      "padding-top",
+      "padding-right",
+      "padding-bottom"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "What is the default value of the CSS padding property?",
+    "options": [
+      "0",
+      "5px",
+      "10px",
+      "auto"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Padding affects which part of an element?",
+    "options": [
+      "The space inside the border",
+      "The space outside the border",
+      "Only the text color",
+      "Only the border width"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Which shorthand sets top, left/right, and bottom padding?",
+    "options": [
+      "padding: 10px 20px 30px;",
+      "padding: 10px 20px;",
+      "padding: 10px;",
+      "padding: 10px 20px 30px 40px 50px;"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which property sets padding only on the bottom?",
+    "options": [
+      "padding-bottom",
+      "margin-bottom",
+      "bottom-padding",
+      "border-bottom"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "What happens when padding is increased?",
+    "options": [
+      "More space appears around the content inside the border",
+      "The text color changes",
+      "The border disappears",
+      "The font becomes bold"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which CSS property sets padding only on the right side?",
+    "options": [
+      "padding-right",
+      "margin-right",
+      "right-padding",
+      "border-right"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which box model area comes immediately after the content?",
+    "options": [
+      "Padding",
+      "Margin",
+      "Outline",
+      "Viewport"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which CSS declaration gives 15px padding on every side?",
+    "options": [
+      "padding: 15px;",
+      "padding-top: 15px;",
+      "margin: 15px;",
+      "border: 15px;"
+    ]
+  }
+]
