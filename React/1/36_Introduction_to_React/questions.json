@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "React follows which type of architecture?",
+    "options": [
+      "Component-based architecture",
+      "Monolithic architecture",
+      "Client-server architecture",
+      "Peer-to-peer architecture"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which function is used to define a simple React functional component?",
+    "options": [
+      "class",
+      "function",
+      "module",
+      "interface"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "What is the purpose of ReactDOM?",
+    "options": [
+      "To manage CSS files",
+      "To connect databases",
+      "To render React components into the DOM",
+      "To compile JavaScript"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "What is the default extension for a React component file using JSX?",
+    "options": [
+      ".js",
+      ".css",
+      ".json",
+      ".jsx"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which HTML attribute is written differently in JSX?",
+    "options": [
+      "id",
+      "className",
+      "title",
+      "alt"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "React applications are executed inside which environment before being displayed in a browser?",
+    "options": [
+      "Node.js",
+      "MySQL",
+      "Docker",
+      "Apache"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which of the following is NOT a feature of React?",
+    "options": [
+      "Reusable components",
+      "Virtual DOM",
+      "Built-in relational database",
+      "Fast UI updates"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "What is the main benefit of the Virtual DOM?",
+    "options": [
+      "Stores user passwords",
+      "Improves rendering performance",
+      "Creates SQL queries",
+      "Replaces HTML files"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which of these tools is commonly paired with React for fast development?",
+    "options": [
+      "Vite",
+      "Photoshop",
+      "Excel",
+      "MySQL Workbench"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which file usually contains the HTML template for a Vite React project?",
+    "options": [
+      "App.jsx",
+      "main.jsx",
+      "index.html",
+      "package-lock.json"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "What is JSX converted into before the browser executes it?",
+    "options": [
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "XML"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which statement about React components is correct?",
+    "options": [
+      "They cannot be reused",
+      "They are always class-based",
+      "They help organize the UI into smaller parts",
+      "They only work with CSS"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which package.json script is commonly used to start a Vite development server?",
+    "options": [
+      "npm run dev",
+      "npm run build",
+      "npm run preview",
+      "npm run lint"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "What does React mainly update when the UI changes?",
+    "options": [
+      "The database",
+      "The Virtual DOM",
+      "The operating system",
+      "The browser settings"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Which of the following best describes JSX tags?",
+    "options": [
+      "They must always be lowercase",
+      "They can include JavaScript expressions",
+      "They only support plain text",
+      "They replace JavaScript completely"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which symbol is used to embed a JavaScript expression inside JSX?",
+    "options": [
+      "[]",
+      "()",
+      "{}",
+      "<>"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which of these is a valid reason to use React?",
+    "options": [
+      "To build interactive interfaces efficiently",
+      "To replace operating systems",
+      "To manage relational databases",
+      "To edit images"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "React is primarily focused on which layer of web development?",
+    "options": [
+      "Frontend",
+      "Backend",
+      "Database",
+      "Networking"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "What is the purpose of breaking a UI into components?",
+    "options": [
+      "To increase code duplication",
+      "To improve code organization and reuse",
+      "To remove JavaScript",
+      "To avoid HTML"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which statement is true about React?",
+    "options": [
+      "It is a complete backend framework",
+      "It only works without HTML",
+      "It is used only for desktop software",
+      "It helps build modern web user interfaces"
+    ]
+  }
+]
