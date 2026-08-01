@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "Which command is commonly used to install React in an existing project?",
+    "options": [
+      "npm install react react-dom",
+      "npm install express",
+      "npm install angular",
+      "npm install vue"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which package is responsible for rendering React components in the browser?",
+    "options": [
+      "react-router-dom",
+      "react-dom",
+      "vite",
+      "webpack"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which function is commonly used to create a root in React 18?",
+    "options": [
+      "ReactDOM.render()",
+      "createComponent()",
+      "createRoot()",
+      "renderRoot()"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which file is commonly used as the entry point of a React application created with Vite?",
+    "options": [
+      "App.css",
+      "index.html",
+      "package.json",
+      "main.jsx"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "React component names should typically begin with:",
+    "options": [
+      "A lowercase letter",
+      "A number",
+      "An uppercase letter",
+      "A special character"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "JSX lets developers write HTML-like syntax inside which language?",
+    "options": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "PHP"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which symbol correctly closes a self-closing JSX tag?",
+    "options": [
+      "</>",
+      "/>",
+      ">>",
+      "<>"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which of the following is a valid React component name?",
+    "options": [
+      "header",
+      "main-content",
+      "123Component",
+      "Header"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "React improves performance mainly by updating the:",
+    "options": [
+      "Virtual DOM",
+      "Database",
+      "Operating System",
+      "Browser History"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which statement best describes JSX?",
+    "options": [
+      "A database language",
+      "A syntax extension for JavaScript",
+      "A CSS framework",
+      "A server software"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which is a major benefit of using React?",
+    "options": [
+      "Reusable components",
+      "Built-in SQL support",
+      "Automatic database creation",
+      "Runs without JavaScript"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "React is mainly used to build:",
+    "options": [
+      "Spreadsheet software",
+      "Desktop operating systems",
+      "Interactive web interfaces",
+      "Computer drivers"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "A React component usually returns:",
+    "options": [
+      "A database record",
+      "A JSX element",
+      "A CSS file",
+      "A ZIP file"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which HTML element usually contains the React root?",
+    "options": [
+      "<main>",
+      "<section>",
+      "<div id='root'></div>",
+      "<footer>"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "React organizes the user interface into:",
+    "options": [
+      "Tables",
+      "Components",
+      "Databases",
+      "Servers"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which keyword is used to share a component with other files?",
+    "options": [
+      "return",
+      "export",
+      "include",
+      "public"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which React feature updates only the changed parts of a page?",
+    "options": [
+      "Virtual DOM",
+      "FTP",
+      "HTTP",
+      "Cookies"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "React projects are commonly executed using:",
+    "options": [
+      "Node.js",
+      "Microsoft Excel",
+      "PowerPoint",
+      "Adobe Reader"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which statement about React is true?",
+    "options": [
+      "It is only for backend development",
+      "It is a JavaScript library for building user interfaces",
+      "It completely replaces HTML",
+      "It is a database management system"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Why do many developers choose React?",
+    "options": [
+      "It removes the need for browsers",
+      "It automatically creates databases",
+      "It is only for mobile hardware",
+      "It makes building dynamic user interfaces easier"
+    ]
+  }
+]
