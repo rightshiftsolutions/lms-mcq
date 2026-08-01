@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "What is application software?",
+    "options": [
+      "Software designed to perform specific user tasks",
+      "Software used to manufacture computers",
+      "A type of network cable",
+      "A computer processor"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which of the following is an example of application software?",
+    "options": [
+      "Microsoft Word",
+      "BIOS",
+      "Device Driver",
+      "Operating System Kernel"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which application software is commonly used to create spreadsheets?",
+    "options": [
+      "Microsoft Excel",
+      "Microsoft Paint",
+      "VLC Media Player",
+      "Notepad"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which software is primarily used for creating presentations?",
+    "options": [
+      "Microsoft PowerPoint",
+      "Microsoft Access",
+      "Adobe Reader",
+      "Calculator"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which application is mainly used for web browsing?",
+    "options": [
+      "Google Chrome",
+      "Microsoft Word",
+      "Adobe Photoshop",
+      "WinRAR"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which application software is used to manage databases?",
+    "options": [
+      "Microsoft Access",
+      "Microsoft Excel",
+      "Paint",
+      "Notepad"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which application is used for image editing?",
+    "options": [
+      "Adobe Photoshop",
+      "VLC Media Player",
+      "Google Chrome",
+      "Microsoft Excel"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which application software is used to play audio and video files?",
+    "options": [
+      "VLC Media Player",
+      "Microsoft Word",
+      "Adobe Illustrator",
+      "MS Access"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which application is commonly used for video conferencing?",
+    "options": [
+      "Zoom",
+      "Paint",
+      "Notepad",
+      "Calculator"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which application software is used to compress files?",
+    "options": [
+      "WinRAR",
+      "PowerPoint",
+      "Excel",
+      "Photoshop"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which type of application software helps protect a computer from malware?",
+    "options": [
+      "Antivirus Software",
+      "Presentation Software",
+      "Spreadsheet Software",
+      "Word Processor"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which application software is used for writing documents?",
+    "options": [
+      "Microsoft Word",
+      "Microsoft Excel",
+      "Adobe Premiere Pro",
+      "VLC Media Player"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which application software is mainly used for graphic design?",
+    "options": [
+      "Adobe Illustrator",
+      "Google Chrome",
+      "Notepad",
+      "Calculator"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which application software is commonly used to read PDF files?",
+    "options": [
+      "Adobe Acrobat Reader",
+      "Microsoft Paint",
+      "MS Excel",
+      "Command Prompt"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Which application software is mainly used for email communication?",
+    "options": [
+      "Microsoft Outlook",
+      "Adobe Photoshop",
+      "WinRAR",
+      "Notepad"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which application software is used for coding and text editing?",
+    "options": [
+      "Visual Studio Code",
+      "PowerPoint",
+      "Windows Media Player",
+      "Calculator"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "What is the primary purpose of presentation software?",
+    "options": [
+      "To create and display slides",
+      "To browse the internet",
+      "To compress files",
+      "To scan for viruses"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which application software helps organize numerical data and perform calculations?",
+    "options": [
+      "Spreadsheet Software",
+      "Video Editing Software",
+      "Media Player",
+      "PDF Reader"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which application software is used to edit videos?",
+    "options": [
+      "Adobe Premiere Pro",
+      "Microsoft Word",
+      "Google Chrome",
+      "Notepad"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which of the following is an example of open-source application software?",
+    "options": [
+      "LibreOffice",
+      "Microsoft Office",
+      "Adobe Photoshop",
+      "CorelDRAW"
+    ]
+  }
+]
