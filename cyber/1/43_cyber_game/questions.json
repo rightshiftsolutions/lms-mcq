@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "Which of the following is a common cyber attack?",
+    "options": [
+      "Firewall",
+      "Phishing",
+      "VPN",
+      "Backup"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "What does VPN stand for?",
+    "options": [
+      "Verified Public Network",
+      "Visual Private Node",
+      "Virtual Private Network",
+      "Virtual Protected Node"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which protocol is used for secure web browsing?",
+    "options": [
+      "FTP",
+      "HTTP",
+      "SMTP",
+      "HTTPS"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which software helps protect a computer from malware?",
+    "options": [
+      "Calculator",
+      "Antivirus",
+      "Media Player",
+      "Notepad"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "What is the main purpose of a firewall?",
+    "options": [
+      "Increase internet speed",
+      "Store files",
+      "Block unauthorized network access",
+      "Edit documents"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "What does OTP stand for?",
+    "options": [
+      "One Time Password",
+      "Online Transfer Process",
+      "Open Test Program",
+      "One Trusted Password"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which of the following is the strongest password?",
+    "options": [
+      "12345678",
+      "password123",
+      "qwerty",
+      "R@hul#2026!"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which attack repeatedly tries different passwords until one works?",
+    "options": [
+      "DDoS Attack",
+      "Brute Force Attack",
+      "Spoofing",
+      "Scanning"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "What is ransomware?",
+    "options": [
+      "A web browser",
+      "A search engine",
+      "Malware that encrypts files and demands payment",
+      "A firewall"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which of the following is NOT malware?",
+    "options": [
+      "Trojan",
+      "Worm",
+      "Spyware",
+      "Router"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which protocol is used to securely transfer web pages?",
+    "options": [
+      "HTTPS",
+      "HTTP",
+      "FTP",
+      "Telnet"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "What is the purpose of encryption?",
+    "options": [
+      "Increase RAM",
+      "Delete data",
+      "Convert data into a secure unreadable format",
+      "Compress files"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which cyber attack floods a server with excessive traffic?",
+    "options": [
+      "Phishing",
+      "Trojan",
+      "Brute Force Attack",
+      "DDoS Attack"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which of the following is a safe online practice?",
+    "options": [
+      "Click unknown email links",
+      "Share passwords with friends",
+      "Enable Multi-Factor Authentication (MFA)",
+      "Reuse the same password everywhere"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Which type of malware secretly monitors user activity?",
+    "options": [
+      "Spyware",
+      "Firewall",
+      "VPN",
+      "Router"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "What should you do if you receive a suspicious email?",
+    "options": [
+      "Reply with your password",
+      "Open every attachment",
+      "Forward it to everyone",
+      "Verify the sender before clicking links"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "What does CAPTCHA help prevent?",
+    "options": [
+      "Hard disk failure",
+      "Automated bot activity",
+      "Power outage",
+      "Network cable damage"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which of the following is cloud storage?",
+    "options": [
+      "Notepad",
+      "VLC Media Player",
+      "Google Drive",
+      "Paint"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Why should software be updated regularly?",
+    "options": [
+      "To improve security and fix vulnerabilities",
+      "To change wallpaper",
+      "To reduce monitor size",
+      "To increase keyboard speed"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which cyber attack tricks users into revealing confidential information?",
+    "options": [
+      "Firewall",
+      "Antivirus",
+      "Phishing",
+      "Backup"
+    ]
+  }
+]
