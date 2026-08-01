@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "What is the main purpose of software testing?",
+    "options": [
+      "To identify defects and ensure software quality",
+      "To design the database",
+      "To increase internet speed",
+      "To create hardware components"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which testing is performed by developers on individual program units?",
+    "options": [
+      "Unit Testing",
+      "System Testing",
+      "Acceptance Testing",
+      "Performance Testing"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which testing checks whether combined modules work together?",
+    "options": [
+      "Integration Testing",
+      "Unit Testing",
+      "Alpha Testing",
+      "Smoke Testing"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Who usually performs User Acceptance Testing (UAT)?",
+    "options": [
+      "End Users or Clients",
+      "Network Engineers",
+      "Database Servers",
+      "Hardware Manufacturers"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "What is a software bug?",
+    "options": [
+      "An error or defect in the software",
+      "A software license",
+      "A programming language",
+      "A database table"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which testing verifies that recent changes have not affected existing features?",
+    "options": [
+      "Regression Testing",
+      "Acceptance Testing",
+      "Unit Testing",
+      "Smoke Testing"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "What is debugging?",
+    "options": [
+      "Finding and fixing software errors",
+      "Installing software",
+      "Writing project documentation",
+      "Creating network cables"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which document describes how software should be tested?",
+    "options": [
+      "Test Plan",
+      "User Manual",
+      "Resume",
+      "Invoice"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "What is Black Box Testing?",
+    "options": [
+      "Testing software without knowing its internal code",
+      "Testing hardware devices",
+      "Testing network cables",
+      "Testing only databases"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "What is White Box Testing?",
+    "options": [
+      "Testing based on the internal code structure",
+      "Testing without source code knowledge",
+      "Testing only the user interface",
+      "Testing computer hardware"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which testing checks whether the application performs well under heavy load?",
+    "options": [
+      "Performance Testing",
+      "Unit Testing",
+      "Alpha Testing",
+      "Beta Testing"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which SDLC model represents testing alongside every development phase?",
+    "options": [
+      "V-Model",
+      "Waterfall Model",
+      "Agile Model",
+      "Prototype Model"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "What is the purpose of documentation in software development?",
+    "options": [
+      "To record project details and help maintenance",
+      "To increase internet speed",
+      "To replace testing",
+      "To reduce coding time automatically"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "What is software maintenance mainly concerned with?",
+    "options": [
+      "Updating and improving software after release",
+      "Creating project requirements",
+      "Writing initial source code",
+      "Designing hardware"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Which maintenance type fixes software defects after deployment?",
+    "options": [
+      "Corrective Maintenance",
+      "Preventive Maintenance",
+      "Adaptive Maintenance",
+      "Perfective Maintenance"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which maintenance type modifies software to work in a new environment?",
+    "options": [
+      "Adaptive Maintenance",
+      "Corrective Maintenance",
+      "Perfective Maintenance",
+      "Preventive Maintenance"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which maintenance type improves software performance or adds new features?",
+    "options": [
+      "Perfective Maintenance",
+      "Corrective Maintenance",
+      "Adaptive Maintenance",
+      "Preventive Maintenance"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which maintenance type aims to prevent future software problems?",
+    "options": [
+      "Preventive Maintenance",
+      "Adaptive Maintenance",
+      "Perfective Maintenance",
+      "Corrective Maintenance"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "What is the primary goal of quality assurance (QA)?",
+    "options": [
+      "Ensure software meets quality standards",
+      "Increase internet bandwidth",
+      "Develop hardware devices",
+      "Replace software testing"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which activity is performed after software is released to users?",
+    "options": [
+      "Maintenance",
+      "Requirement Analysis",
+      "Planning",
+      "System Design"
+    ]
+  }
+]
