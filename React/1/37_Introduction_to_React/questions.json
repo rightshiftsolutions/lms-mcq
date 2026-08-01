@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "Which JavaScript feature is most commonly used to create React functional components?",
+    "options": [
+      "Functions",
+      "Interfaces",
+      "Enums",
+      "Namespaces"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "What is the purpose of the root element in a React application?",
+    "options": [
+      "To store CSS files",
+      "To hold the React application",
+      "To connect the database",
+      "To define API routes"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which statement best describes a React application?",
+    "options": [
+      "It is built from reusable components",
+      "It requires only HTML",
+      "It cannot use JavaScript",
+      "It runs only on servers"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which of the following is required to display a React application in a web browser?",
+    "options": [
+      "MySQL",
+      "Apache Tomcat",
+      "ReactDOM",
+      "MongoDB"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "What is the primary goal of using components in React?",
+    "options": [
+      "To increase code repetition",
+      "To organize and reuse UI code",
+      "To replace HTML",
+      "To create databases"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which statement about JSX is correct?",
+    "options": [
+      "It can include JavaScript expressions",
+      "It only supports CSS",
+      "It is a database language",
+      "It replaces JavaScript completely"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which technology does React use to efficiently compare UI changes?",
+    "options": [
+      "Browser Cache",
+      "Virtual DOM",
+      "Local Storage",
+      "Session Storage"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which command is commonly used to install project dependencies after downloading a React project?",
+    "options": [
+      "npm build",
+      "npm install",
+      "npm update all",
+      "npm create"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "What is the purpose of the return statement in a React functional component?",
+    "options": [
+      "To send JSX for rendering",
+      "To connect the database",
+      "To import packages",
+      "To create CSS styles"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which tool converts JSX into browser-understandable JavaScript?",
+    "options": [
+      "Git",
+      "Babel",
+      "MongoDB",
+      "Docker"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "React encourages developers to build applications by combining:",
+    "options": [
+      "Databases",
+      "Components",
+      "Operating systems",
+      "Servers"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which of the following is a valid reason to use JSX?",
+    "options": [
+      "It makes UI code easier to read",
+      "It replaces CSS",
+      "It creates SQL tables",
+      "It removes JavaScript"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which folder commonly contains source code in a React project?",
+    "options": [
+      "src",
+      "docs",
+      "assets.zip",
+      "config"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "What does React mainly focus on?",
+    "options": [
+      "Frontend user interface",
+      "Database administration",
+      "Network security",
+      "Operating system design"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Which of the following is typically written inside JSX using curly braces?",
+    "options": [
+      "JavaScript expressions",
+      "SQL queries",
+      "CSS files",
+      "Image files"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which advantage does React provide through reusable components?",
+    "options": [
+      "Less repeated code",
+      "Automatic database creation",
+      "Faster internet speed",
+      "No need for HTML"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which file commonly contains project information and dependencies in a React project?",
+    "options": [
+      "package.json",
+      "README.txt",
+      "index.css",
+      "favicon.ico"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which statement about React is correct?",
+    "options": [
+      "It can be used to build single-page applications",
+      "It is a programming language",
+      "It only works with PHP",
+      "It cannot work with JavaScript"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "What is one reason React applications are easier to manage?",
+    "options": [
+      "The UI is divided into small reusable components",
+      "They do not require HTML",
+      "They automatically generate databases",
+      "They eliminate JavaScript"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which of the following best describes React?",
+    "options": [
+      "A JavaScript library for building user interfaces",
+      "A relational database",
+      "A web browser",
+      "A programming language"
+    ]
+  }
+]
