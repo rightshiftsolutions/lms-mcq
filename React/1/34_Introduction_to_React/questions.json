@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "What is React?",
+    "options": [
+      "A JavaScript library for building user interfaces",
+      "A database management system",
+      "A programming language",
+      "A web browser"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Who developed React?",
+    "options": [
+      "Google",
+      "Meta (Facebook)",
+      "Microsoft",
+      "Apple"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which language is mainly used with React?",
+    "options": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "C++"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "What is the main purpose of React?",
+    "options": [
+      "Managing databases",
+      "Creating operating systems",
+      "Building mobile hardware",
+      "Building user interfaces"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "What is a React component?",
+    "options": [
+      "A reusable piece of UI",
+      "A database table",
+      "A CSS framework",
+      "A browser extension"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which syntax is commonly used to write React UI?",
+    "options": [
+      "HTML",
+      "JSX",
+      "XML",
+      "SQL"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "What does JSX stand for?",
+    "options": [
+      "Java Syntax Extension",
+      "JavaScript XML",
+      "Java Source XML",
+      "JSON XML"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which command is commonly used to create a React app with Vite?",
+    "options": [
+      "npm install react",
+      "npm start react",
+      "npm create vite@latest",
+      "node react create"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which file usually contains the main React component?",
+    "options": [
+      "App.jsx",
+      "style.css",
+      "package.json",
+      "index.html"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "React applications are built using which concept?",
+    "options": [
+      "Classes only",
+      "Functions only",
+      "Components",
+      "Threads"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "Which company currently maintains React?",
+    "options": [
+      "Amazon",
+      "Meta",
+      "Oracle",
+      "IBM"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "What is the Virtual DOM in React?",
+    "options": [
+      "A physical server",
+      "A browser plugin",
+      "A lightweight copy of the real DOM",
+      "A CSS framework"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which extension is commonly used for React component files?",
+    "options": [
+      ".html",
+      ".css",
+      ".jsx",
+      ".sql"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "What is the benefit of reusable components?",
+    "options": [
+      "They reduce code duplication",
+      "They increase file size",
+      "They replace JavaScript",
+      "They remove HTML"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "React is mainly used for developing which part of a web application?",
+    "options": [
+      "Backend",
+      "Database",
+      "Frontend",
+      "Server configuration"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which keyword is commonly used to import React modules?",
+    "options": [
+      "require",
+      "include",
+      "using",
+      "import"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "What makes React applications easier to maintain?",
+    "options": [
+      "Component-based architecture",
+      "Removing JavaScript",
+      "Using only CSS",
+      "Writing everything in one file"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which tool is required to run React projects locally?",
+    "options": [
+      "Photoshop",
+      "Node.js",
+      "Microsoft Word",
+      "MySQL"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which of the following best describes React?",
+    "options": [
+      "A database",
+      "A web server",
+      "A JavaScript library",
+      "A programming language"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Why do developers use React?",
+    "options": [
+      "To design hardware",
+      "To manage networks",
+      "To create databases",
+      "To build fast and interactive user interfaces"
+    ]
+  }
+]
