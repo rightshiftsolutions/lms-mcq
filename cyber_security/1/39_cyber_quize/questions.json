@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "What is Cyber Security?",
+    "options": [
+      "Protecting computers, networks, and data from cyber attacks",
+      "Designing websites",
+      "Creating mobile apps",
+      "Repairing computer hardware"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which of the following is an example of malware?",
+    "options": [
+      "Firewall",
+      "Virus",
+      "Router",
+      "Switch"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "What does VPN stand for?",
+    "options": [
+      "Virtual Private Network",
+      "Verified Personal Network",
+      "Visual Private Node",
+      "Virtual Public Network"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which protocol is used for secure websites?",
+    "options": [
+      "HTTP",
+      "HTTPS",
+      "FTP",
+      "SMTP"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "What is phishing?",
+    "options": [
+      "A cyber attack that tricks users into revealing sensitive information",
+      "A type of antivirus",
+      "A cloud storage service",
+      "A programming language"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which device helps block unauthorized network access?",
+    "options": [
+      "Firewall",
+      "Monitor",
+      "Keyboard",
+      "Printer"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "What does OTP stand for?",
+    "options": [
+      "One Time Password",
+      "Online Transfer Protocol",
+      "Open Test Process",
+      "Original Text Password"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which software is used to detect and remove malware?",
+    "options": [
+      "Antivirus",
+      "Calculator",
+      "Notepad",
+      "Paint"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "What is ransomware?",
+    "options": [
+      "Malware that encrypts files and demands payment",
+      "A search engine",
+      "A web browser",
+      "A programming language"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which of the following is the strongest password?",
+    "options": [
+      "Rahul@2026#Tech",
+      "12345678",
+      "password123",
+      "qwerty"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "What is the purpose of encryption?",
+    "options": [
+      "To convert data into an unreadable format for security",
+      "To delete files permanently",
+      "To increase internet speed",
+      "To compress files"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which cyber attack repeatedly tries different passwords to gain access?",
+    "options": [
+      "Brute Force Attack",
+      "Phishing",
+      "Spoofing",
+      "Sniffing"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which of the following is NOT malware?",
+    "options": [
+      "Antivirus",
+      "Trojan",
+      "Spyware",
+      "Worm"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "What should you do if you receive a suspicious email?",
+    "options": [
+      "Verify the sender before opening links or attachments",
+      "Click all links immediately",
+      "Reply with your password",
+      "Forward it to everyone"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "What is the purpose of two-factor authentication (2FA)?",
+    "options": [
+      "To add an extra layer of security during login",
+      "To increase internet speed",
+      "To reduce storage usage",
+      "To update software automatically"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "What is a DDoS attack?",
+    "options": [
+      "An attack that floods a server with excessive traffic",
+      "An attack that steals passwords through email",
+      "An attack that encrypts files",
+      "An attack that deletes operating systems"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Why is it important to keep software updated?",
+    "options": [
+      "To fix security vulnerabilities",
+      "To change desktop wallpaper",
+      "To reduce monitor brightness",
+      "To increase keyboard speed"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which of the following is an example of cloud storage?",
+    "options": [
+      "Google Drive",
+      "MS Paint",
+      "Calculator",
+      "VLC Media Player"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "What does CAPTCHA help prevent?",
+    "options": [
+      "Automated bot activity",
+      "Power failure",
+      "Hard disk damage",
+      "Slow internet connection"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which is the best cybersecurity practice?",
+    "options": [
+      "Enable Multi-Factor Authentication (MFA)",
+      "Share passwords with friends",
+      "Reuse the same password for every account",
+      "Click unknown links without checking"
+    ]
+  }
+]
