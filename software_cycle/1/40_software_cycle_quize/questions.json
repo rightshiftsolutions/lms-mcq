@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "What does SDLC stand for?",
+    "options": [
+      "Software Development Life Cycle",
+      "System Design Level Code",
+      "Software Data Link Control",
+      "System Development Logic Cycle"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which is the first phase of the Software Development Life Cycle?",
+    "options": [
+      "Requirement Analysis",
+      "Testing",
+      "Maintenance",
+      "Deployment"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "What is the main purpose of the planning phase?",
+    "options": [
+      "Define project goals, budget, and schedule",
+      "Write program code",
+      "Fix software bugs",
+      "Install the software"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "In which SDLC phase is the software architecture created?",
+    "options": [
+      "Design",
+      "Coding",
+      "Maintenance",
+      "Testing"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which phase involves writing the actual source code?",
+    "options": [
+      "Implementation",
+      "Requirement Analysis",
+      "Design",
+      "Planning"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which SDLC phase ensures the software works correctly?",
+    "options": [
+      "Testing",
+      "Deployment",
+      "Maintenance",
+      "Planning"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "What happens during the deployment phase?",
+    "options": [
+      "The software is released to users",
+      "Requirements are collected",
+      "The system is designed",
+      "The code is reviewed"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which phase focuses on fixing bugs after software release?",
+    "options": [
+      "Maintenance",
+      "Planning",
+      "Design",
+      "Requirement Analysis"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which SDLC model follows a step-by-step sequential process?",
+    "options": [
+      "Waterfall Model",
+      "Agile Model",
+      "Spiral Model",
+      "Prototype Model"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which SDLC model emphasizes continuous customer feedback?",
+    "options": [
+      "Agile Model",
+      "Waterfall Model",
+      "V-Model",
+      "Big Bang Model"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "What is the main goal of requirement analysis?",
+    "options": [
+      "Understand user needs",
+      "Write code",
+      "Test the application",
+      "Deploy the software"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Who provides the software requirements?",
+    "options": [
+      "Client or End User",
+      "Network Administrator",
+      "Database Server",
+      "Operating System"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which document contains detailed software requirements?",
+    "options": [
+      "Software Requirement Specification (SRS)",
+      "Resume",
+      "Invoice",
+      "Attendance Sheet"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which testing checks the complete software system?",
+    "options": [
+      "System Testing",
+      "Unit Testing",
+      "Smoke Testing",
+      "Regression Testing"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Which SDLC model is best suited for projects with changing requirements?",
+    "options": [
+      "Agile Model",
+      "Waterfall Model",
+      "V-Model",
+      "RAD Model"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "What is the main purpose of software maintenance?",
+    "options": [
+      "Improve and fix the software after release",
+      "Collect project requirements",
+      "Prepare project budget",
+      "Design the user interface"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Which phase comes immediately after the design phase in SDLC?",
+    "options": [
+      "Implementation",
+      "Maintenance",
+      "Planning",
+      "Requirement Analysis"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which SDLC model uses repeated iterations to improve the software?",
+    "options": [
+      "Agile Model",
+      "Waterfall Model",
+      "V-Model",
+      "Linear Model"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Which SDLC phase verifies that the software meets user requirements?",
+    "options": [
+      "Testing",
+      "Planning",
+      "Design",
+      "Coding"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "How many main phases are commonly included in the Software Development Life Cycle?",
+    "options": [
+      "Seven",
+      "Three",
+      "Four",
+      "Ten"
+    ]
+  }
+]
