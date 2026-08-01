@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 1,
+    "question": "React is mainly used to build which part of a web application?",
+    "options": [
+      "Frontend user interface",
+      "Database",
+      "Web server",
+      "Operating system"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Which company originally created React?",
+    "options": [
+      "Google",
+      "Microsoft",
+      "Meta (Facebook)",
+      "Amazon"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Which programming language is required to use React?",
+    "options": [
+      "Python",
+      "JavaScript",
+      "C#",
+      "Swift"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which of the following is a key feature of React?",
+    "options": [
+      "Reusable components",
+      "Built-in SQL database",
+      "Operating system management",
+      "Email hosting"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Which file is commonly used to list project dependencies?",
+    "options": [
+      "index.css",
+      "README.md",
+      "package.json",
+      "App.css"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which command is commonly used to start a Vite React development server?",
+    "options": [
+      "npm run dev",
+      "npm start server",
+      "npm execute",
+      "node start"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which package is used to connect React components to the browser DOM?",
+    "options": [
+      "react-router",
+      "react-dom",
+      "vite",
+      "babel"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "What is the purpose of Babel in a React project?",
+    "options": [
+      "To manage databases",
+      "To convert JSX into JavaScript",
+      "To host websites",
+      "To optimize images"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "What is the purpose of the Virtual DOM?",
+    "options": [
+      "To store application data",
+      "To improve UI rendering performance",
+      "To replace CSS",
+      "To create APIs"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Why are React components considered reusable?",
+    "options": [
+      "They can be used in multiple places",
+      "They create databases automatically",
+      "They replace HTML files",
+      "They only work once"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "In JSX, JavaScript expressions are written inside:",
+    "options": [
+      "Square brackets []",
+      "Parentheses ()",
+      "Curly braces {}",
+      "Angle brackets <>"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "Which folder usually contains React component source files?",
+    "options": [
+      "public",
+      "src",
+      "dist",
+      "node_modules"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "Which function is used in React 18 to create the application root?",
+    "options": [
+      "render()",
+      "createRoot()",
+      "mountRoot()",
+      "initRoot()"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "Which statement about JSX is true?",
+    "options": [
+      "It allows HTML-like syntax inside JavaScript",
+      "It is a replacement for CSS",
+      "It is a database language",
+      "It runs directly in browsers without compilation"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Why does React compare the Virtual DOM with the real DOM before updating the page?",
+    "options": [
+      "To reduce unnecessary DOM updates",
+      "To increase HTML file size",
+      "To remove JavaScript",
+      "To create database tables"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "Which statement best explains the component-based architecture of React?",
+    "options": [
+      "The UI is divided into independent reusable pieces",
+      "Every page must use one large component",
+      "Components cannot communicate",
+      "Components replace CSS files"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "Why is JSX not directly understood by web browsers?",
+    "options": [
+      "It must first be transformed into JavaScript",
+      "Browsers only understand Python",
+      "It requires a database connection",
+      "It is compiled into SQL"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which statement best describes the relationship between React and the DOM?",
+    "options": [
+      "React directly modifies every DOM element on each update",
+      "React ignores the DOM completely",
+      "React uses the Virtual DOM to minimize real DOM changes",
+      "React stores the DOM inside a database"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "Why do large React applications benefit from reusable components?",
+    "options": [
+      "They improve maintainability and reduce duplicate code",
+      "They eliminate the need for JavaScript",
+      "They automatically create backend APIs",
+      "They replace the browser"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "Which combination best represents the core idea behind React?",
+    "options": [
+      "Component-based UI, JSX, and Virtual DOM",
+      "SQL, PHP, and Apache",
+      "HTML tables, FTP, and XML",
+      "Python, Django, and SQLite"
+    ]
+  }
+]
