@@ -1,202 +1,204 @@
+```json
 [
   {
     "question_id": 1,
-    "question": "Which Kotlin feature helps prevent NullPointerException errors?",
+    "question": "Which keyword is used to start an if statement in Kotlin?",
     "options": [
-      "Automatic memory management",
-      "Null safety",
-      "Inheritance",
-      "Method overloading"
+      "if",
+      "when",
+      "switch",
+      "case"
     ]
   },
   {
     "question_id": 2,
-    "question": "Which symbol is used to declare a nullable type in Kotlin?",
+    "question": "Which keyword is used to specify the alternative block in an if statement?",
     "options": [
-      "!",
-      "#",
-      "?",
-      "&"
+      "otherwise",
+      "default",
+      "else",
+      "then"
     ]
   },
   {
     "question_id": 3,
-    "question": "Which keyword is used to define an interface in Kotlin?",
-    "options": [
-      "implements",
-      "protocol",
-      "interface",
-      "abstract"
-    ]
-  },
-  {
-    "question_id": 4,
-    "question": "Which keyword is used to define an enum in Kotlin?",
-    "options": [
-      "enum",
-      "enumeration",
-      "enum class",
-      "choice"
-    ]
-  },
-  {
-    "question_id": 5,
-    "question": "Which scope function returns the context object and uses 'this' inside its block?",
-    "options": [
-      "let",
-      "also",
-      "apply",
-      "run"
-    ]
-  },
-  {
-    "question_id": 6,
-    "question": "Which Kotlin keyword is used to define a data class?",
-    "options": [
-      "record",
-      "entity",
-      "data",
-      "model"
-    ]
-  },
-  {
-    "question_id": 7,
-    "question": "Which data type stores values from -128 to 127?",
-    "options": [
-      "Byte",
-      "Short",
-      "Int",
-      "Long"
-    ]
-  },
-  {
-    "question_id": 8,
-    "question": "Which loop is commonly used to iterate over a range in Kotlin?",
-    "options": [
-      "while",
-      "do-while",
-      "for",
-      "repeat"
-    ]
-  },
-  {
-    "question_id": 9,
-    "question": "Which expression replaces the traditional switch statement in Kotlin?",
+    "question": "Which Kotlin expression is used as a replacement for the traditional switch statement?",
     "options": [
       "case",
-      "select",
       "choose",
+      "select",
       "when"
     ]
   },
   {
-    "question_id": 10,
-    "question": "Which keyword is used to return a value from a function?",
+    "question_id": 4,
+    "question": "Which keyword is used to check multiple conditions one after another in Kotlin?",
     "options": [
-      "return",
-      "yield",
-      "break",
-      "exit"
+      "else if",
+      "otherwise",
+      "elif",
+      "case if"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "What does an if expression return in Kotlin?",
+    "options": [
+      "Only true or false",
+      "Nothing",
+      "A value from the executed branch",
+      "An exception"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "Which branch of an if statement executes when the condition is false?",
+    "options": [
+      "if",
+      "then",
+      "else",
+      "default"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "Which keyword is commonly used as the default branch in a when expression?",
+    "options": [
+      "default",
+      "otherwise",
+      "else",
+      "finally"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Which operator is commonly used to compare two values in an if condition?",
+    "options": [
+      "=",
+      "==",
+      ":=",
+      "=>"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "Which logical operator is used when both conditions must be true?",
+    "options": [
+      "||",
+      "&&",
+      "!",
+      "^"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "Which logical operator is used when at least one condition must be true?",
+    "options": [
+      "&&",
+      "!",
+      "||",
+      "&"
     ]
   },
   {
     "question_id": 11,
-    "question": "Which symbol is used to access a class member in Kotlin?",
+    "question": "Which operator is used to negate a Boolean condition in Kotlin?",
     "options": [
-      "->",
-      ".",
-      "::",
-      ":"
+      "~",
+      "!",
+      "not",
+      "-"
     ]
   },
   {
     "question_id": 12,
-    "question": "Which function reads a line of input in modern Kotlin?",
+    "question": "Which comparison operator checks whether one value is greater than another?",
     "options": [
-      "input()",
-      "scan()",
-      "readln()",
-      "getline()"
+      "<",
+      ">",
+      "==",
+      "<="
     ]
   },
   {
     "question_id": 13,
-    "question": "When creating an object in Kotlin, which keyword is used before the constructor call?",
+    "question": "Which comparison operator checks whether two values are equal?",
     "options": [
-      "new",
-      "create",
-      "object",
-      "No keyword is required"
+      "=",
+      "===",
+      "==",
+      "!="
     ]
   },
   {
     "question_id": 14,
-    "question": "Which visibility modifier makes a declaration accessible only inside the same class?",
+    "question": "What type of value must an if condition evaluate to in Kotlin?",
     "options": [
-      "public",
-      "internal",
-      "protected",
-      "private"
+      "Int",
+      "String",
+      "Boolean",
+      "Double"
     ]
   },
   {
     "question_id": 15,
-    "question": "Which keyword refers to the immediate parent class?",
+    "question": "Which statement can match multiple values in a single branch using commas?",
     "options": [
-      "base",
-      "parent",
-      "super",
-      "this"
+      "if",
+      "while",
+      "when",
+      "for"
     ]
   },
   {
     "question_id": 16,
-    "question": "Which of the following is a valid Kotlin string declaration?",
+    "question": "Which statement is more suitable for checking many possible values of a single variable?",
     "options": [
-      "String name = \"Kotlin\"",
-      "string name = \"Kotlin\"",
-      "text name = \"Kotlin\"",
-      "val name = \"Kotlin\""
+      "for",
+      "while",
+      "if",
+      "when"
     ]
   },
   {
     "question_id": 17,
-    "question": "Which operator safely accesses a property of a nullable object?",
+    "question": "Which keyword is used to create nested conditional logic inside another if block?",
     "options": [
-      "?.",
-      ".",
-      "::",
-      "!!"
+      "when",
+      "else",
+      "if",
+      "switch"
     ]
   },
   {
     "question_id": 18,
-    "question": "Which keyword is used to throw an exception in Kotlin?",
+    "question": "Which Kotlin feature allows if to be assigned directly to a variable?",
     "options": [
-      "raise",
-      "throws",
-      "throw",
-      "error"
+      "if is an expression",
+      "Implicit casting",
+      "Smart constructors",
+      "Extension functions"
     ]
   },
   {
     "question_id": 19,
-    "question": "Which Kotlin type represents a function that does not return a meaningful value?",
+    "question": "Which of the following can be used without an argument to evaluate Boolean conditions sequentially?",
     "options": [
-      "Void",
-      "Nothing",
-      "Null",
-      "Unit"
+      "when",
+      "for",
+      "while",
+      "do-while"
     ]
   },
   {
     "question_id": 20,
-    "question": "Which operator forces a nullable value to be treated as non-null?",
+    "question": "Which statement improves readability when replacing long chains of if-else conditions?",
     "options": [
-      "?.",
-      "!!",
-      "::",
-      "?:"
+      "repeat",
+      "while",
+      "when",
+      "break"
     ]
   }
 ]
+
