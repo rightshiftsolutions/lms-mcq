@@ -1,7 +1,7 @@
 [
   {
     "question_id": 1,
-    "correct_answer": "B"
+    "correct_answer": "A"
   },
   {
     "question_id": 2,
@@ -9,11 +9,11 @@
   },
   {
     "question_id": 3,
-    "correct_answer": "C"
+    "correct_answer": "D"
   },
   {
     "question_id": 4,
-    "correct_answer": "C"
+    "correct_answer": "A"
   },
   {
     "question_id": 5,
@@ -25,19 +25,19 @@
   },
   {
     "question_id": 7,
-    "correct_answer": "A"
-  },
-  {
-    "question_id": 8,
     "correct_answer": "C"
   },
   {
+    "question_id": 8,
+    "correct_answer": "B"
+  },
+  {
     "question_id": 9,
-    "correct_answer": "D"
+    "correct_answer": "B"
   },
   {
     "question_id": 10,
-    "correct_answer": "A"
+    "correct_answer": "C"
   },
   {
     "question_id": 11,
@@ -45,15 +45,15 @@
   },
   {
     "question_id": 12,
-    "correct_answer": "C"
+    "correct_answer": "B"
   },
   {
     "question_id": 13,
-    "correct_answer": "D"
+    "correct_answer": "C"
   },
   {
     "question_id": 14,
-    "correct_answer": "D"
+    "correct_answer": "C"
   },
   {
     "question_id": 15,
@@ -65,18 +65,18 @@
   },
   {
     "question_id": 17,
-    "correct_answer": "A"
-  },
-  {
-    "question_id": 18,
     "correct_answer": "C"
   },
   {
+    "question_id": 18,
+    "correct_answer": "A"
+  },
+  {
     "question_id": 19,
-    "correct_answer": "D"
+    "correct_answer": "A"
   },
   {
     "question_id": 20,
-    "correct_answer": "B"
+    "correct_answer": "C"
   }
 ]
