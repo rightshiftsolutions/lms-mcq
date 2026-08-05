@@ -1,202 +1,202 @@
 [
   {
     "question_id": 1,
-    "question": "Which keyword is used to create a singleton object in Kotlin?",
+    "question": "Which loop is commonly used to iterate over a range in Kotlin?",
     "options": [
-      "class",
-      "singleton",
-      "object",
-      "instance"
+      "while",
+      "do-while",
+      "for",
+      "repeat"
     ]
   },
   {
     "question_id": 2,
-    "question": "Which keyword is used to define a companion object in Kotlin?",
+    "question": "Which loop checks its condition before executing the loop body?",
     "options": [
-      "static",
-      "companion",
-      "shared",
-      "global"
+      "for",
+      "while",
+      "do-while",
+      "repeat"
     ]
   },
   {
     "question_id": 3,
-    "question": "Which function checks the length of a string named text in Kotlin?",
+    "question": "Which loop executes its body at least once regardless of the condition?",
     "options": [
-      "text.size()",
-      "text.count()",
-      "text.length",
-      "length(text)"
+      "for",
+      "while",
+      "repeat",
+      "do-while"
     ]
   },
   {
     "question_id": 4,
-    "question": "Which operator is used to concatenate two strings in Kotlin?",
+    "question": "Which keyword is used to terminate a loop immediately in Kotlin?",
     "options": [
-      "&",
-      "+",
-      ".",
-      "*"
+      "continue",
+      "break",
+      "exit",
+      "stop"
     ]
   },
   {
     "question_id": 5,
-    "question": "Which keyword is used to define a secondary constructor in Kotlin?",
+    "question": "Which keyword skips the current iteration and moves to the next one?",
     "options": [
-      "constructor",
-      "init",
-      "create",
-      "build"
+      "break",
+      "continue",
+      "next",
+      "skip"
     ]
   },
   {
     "question_id": 6,
-    "question": "Which block is executed when an object is created in Kotlin?",
+    "question": "Which operator is used to define a range in a for loop?",
     "options": [
-      "main",
-      "constructor",
-      "init",
-      "start"
+      "..",
+      "->",
+      "::",
+      "=>"
     ]
   },
   {
     "question_id": 7,
-    "question": "Which collection stores only unique elements in Kotlin?",
+    "question": "Which function is used to iterate over a range in descending order?",
     "options": [
-      "Set",
-      "List",
-      "Array",
-      "String"
+      "downTo",
+      "until",
+      "step",
+      "reverse"
     ]
   },
   {
     "question_id": 8,
-    "question": "Which collection stores key-value pairs in Kotlin?",
+    "question": "Which function is used to skip values while iterating through a range?",
     "options": [
-      "List",
-      "Array",
-      "Map",
-      "Set"
+      "next",
+      "step",
+      "jump",
+      "increment"
     ]
   },
   {
     "question_id": 9,
-    "question": "Which function is used to find the number of elements in a list?",
+    "question": "Which keyword is used to iterate through elements of a collection in a for loop?",
     "options": [
-      "length",
-      "count()",
-      "size",
-      "total()"
+      "as",
+      "to",
+      "in",
+      "of"
     ]
   },
   {
     "question_id": 10,
-    "question": "Which keyword is used to define an abstract class in Kotlin?",
+    "question": "Which loop is best suited when the number of iterations is already known?",
     "options": [
-      "virtual",
-      "abstract",
-      "open",
-      "base"
+      "while",
+      "do-while",
+      "for",
+      "infinite loop"
     ]
   },
   {
     "question_id": 11,
-    "question": "Which operator checks whether an object belongs to a specific type in Kotlin?",
+    "question": "Which loop is best suited when the number of iterations is not known in advance?",
     "options": [
-      "typeof",
-      "instanceof",
-      "is",
-      "as"
+      "for",
+      "while",
+      "repeat",
+      "range"
     ]
   },
   {
     "question_id": 12,
-    "question": "Which keyword is used to perform an unsafe type cast in Kotlin?",
+    "question": "Which loop condition results in an infinite loop if it always evaluates to true?",
     "options": [
-      "cast",
-      "to",
-      "as",
-      "is"
+      "while(false)",
+      "while(true)",
+      "for(0)",
+      "repeat(0)"
     ]
   },
   {
     "question_id": 13,
-    "question": "Which keyword is used to declare a lambda parameter implicitly when there is only one parameter?",
+    "question": "Which function excludes the ending value from a range?",
     "options": [
-      "this",
-      "it",
-      "self",
-      "arg"
+      "downTo",
+      "step",
+      "until",
+      "rangeTo"
     ]
   },
   {
     "question_id": 14,
-    "question": "Which range expression includes both the start and end values?",
+    "question": "Which loop is commonly used to traverse arrays and lists in Kotlin?",
     "options": [
-      "until",
-      "..",
-      "downTo",
-      "step"
+      "for",
+      "while",
+      "do-while",
+      "if"
     ]
   },
   {
     "question_id": 15,
-    "question": "Which keyword is used to skip to the next iteration of a loop?",
+    "question": "Which loop statement allows another iteration after skipping the remaining code of the current iteration?",
     "options": [
-      "stop",
-      "continue",
       "break",
-      "next"
+      "return",
+      "continue",
+      "exit"
     ]
   },
   {
     "question_id": 16,
-    "question": "Which function removes leading and trailing spaces from a string in Kotlin?",
+    "question": "Which loop keyword is used to repeatedly execute code while a condition remains true?",
     "options": [
-      "clean()",
-      "trim()",
-      "strip()",
-      "removeSpace()"
+      "for",
+      "repeat",
+      "while",
+      "switch"
     ]
   },
   {
     "question_id": 17,
-    "question": "Which operator is used to provide a default value when a nullable expression is null?",
+    "question": "Which range expression generates values from 1 through 5 in Kotlin?",
     "options": [
-      "?:",
-      "??",
-      "!!",
-      "?."
+      "1 until 5",
+      "1..5",
+      "1->5",
+      "range(1,5)"
     ]
   },
   {
     "question_id": 18,
-    "question": "Which function converts all characters of a string to uppercase in modern Kotlin?",
+    "question": "Which loop type is generally preferred for iterating over collections?",
     "options": [
-      "capitalize()",
-      "upper()",
-      "uppercase()",
-      "toUpper()"
+      "while",
+      "do-while",
+      "for",
+      "repeat"
     ]
   },
   {
     "question_id": 19,
-    "question": "Which collection type maintains the order of inserted elements and allows duplicates?",
+    "question": "Which loop continues executing until its condition becomes false?",
     "options": [
-      "Set",
-      "Map",
-      "Array",
-      "List"
+      "for",
+      "while",
+      "if",
+      "when"
     ]
   },
   {
     "question_id": 20,
-    "question": "Which keyword is used to create a type alias in Kotlin?",
+    "question": "Which function call iterates through the range 2, 4, 6, 8, and 10?",
     "options": [
-      "typedef",
-      "type",
-      "alias",
-      "typealias"
+      "2..10",
+      "2 until 10",
+      "2..10 step 2",
+      "2 downTo 10"
     ]
   }
 ]
